@@ -34,11 +34,12 @@ def parse_questions(file_path):
             i += 1
     return questions
 
-def send_poll(chat_id, question_data):
+def send_poll(chat_id, question_data, question_num):
     url = f"https://api.telegram.org/bot{TOKEN}/sendPoll"
+    q_text = f"{question_num}. {question_data['question']}"
     payload = {
         'chat_id': chat_id,
-        'question': question_data['question'][:300], # Telegram limit
+        'question': q_text[:300], # Telegram limit
         'options': json.dumps(question_data['options']),
         'is_anonymous': False,
         'type': 'quiz',
@@ -80,7 +81,7 @@ def main():
     for i in range(start_idx, end_idx):
         q = questions[i]
         for chat_id in CHAT_IDS:
-            send_poll(chat_id, q)
+            send_poll(chat_id, q, i + 1)
             time.sleep(1) # Avoid rate limits
         
         # Update progress after each question sent to both
