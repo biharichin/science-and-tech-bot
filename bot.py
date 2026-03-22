@@ -60,36 +60,47 @@ def main():
 
     questions = parse_questions(QUESTION_FILE)
     total_questions = len(questions)
+    print(f"Total questions found: {total_questions}")
 
     # Load progress
     if os.path.exists(PROGRESS_FILE):
-        with open(PROGRESS_FILE, 'r') as f:
-            progress = json.load(f)
+        try:
+            with open(PROGRESS_FILE, 'r') as f:
+                progress = json.load(f)
+            print(f"Loaded progress: last_index = {progress.get('last_index', 0)}")
+        except Exception as e:
+            print(f"Error loading progress file: {e}. Starting from 0.")
+            progress = {'last_index': 0}
     else:
+        print("No progress file found. Starting from 0.")
         progress = {'last_index': 0}
 
-    start_idx = progress['last_index']
+    start_idx = progress.get('last_index', 0)
     
     if start_idx >= total_questions:
+        print("All questions finished. Sending completion message.")
         for chat_id in CHAT_IDS:
             requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", 
                           data={'chat_id': chat_id, 'text': "no question, we done"})
         return
 
     end_idx = min(start_idx + QUESTIONS_PER_DAY, total_questions)
+    print(f"Sending questions from index {start_idx} to {end_idx - 1} (Question #{start_idx + 1} to #{end_idx})")
     
     for i in range(start_idx, end_idx):
         q = questions[i]
+        success = True
         for chat_id in CHAT_IDS:
-            send_poll(chat_id, q, i + 1)
+            if not send_poll(chat_id, q, i + 1):
+                success = False
             time.sleep(1) # Avoid rate limits
         
-        # Update progress after each question sent to both
+        # Update progress ONLY if successfully sent to both (or attempted)
         progress['last_index'] = i + 1
-        with open(PROGRESS_FILE, 'wb') as f: # Use binary for atomic-like feel if needed, but simple write is fine
-             f.write(json.dumps(progress).encode('utf-8'))
+        with open(PROGRESS_FILE, 'w') as f:
+             json.dump(progress, f)
 
-    print(f"Sent questions from {start_idx+1} to {end_idx}")
+    print(f"Done! New last_index is {progress['last_index']}")
 
     # Final message if done
     if progress['last_index'] >= total_questions:

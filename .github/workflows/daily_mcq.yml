@@ -8,6 +8,8 @@ on:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow pushing progress.json
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
