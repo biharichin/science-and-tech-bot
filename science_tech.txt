@@ -1,0 +1,10238 @@
+What is the primary objective of space technology?
+A Communication
+B Exploration and research
+C Agriculture
+D Transport
+Answer: B
+Which organization manages India’s space missions?
+A DRDO
+B ISRO
+C NASA
+D HAL
+Answer: B
+What does ISRO stand for?
+A Indian Space Research Organization
+B International Space Research Organization
+C Indian Satellite Research Office
+D International Satellite Research Office
+Answer: A
+Which was India’s first satellite?
+A Rohini
+B INSAT
+C Aryabhata
+D Bhaskara
+Answer: C
+Which launch vehicle is used for polar orbits?
+A GSLV
+B PSLV
+C SLV
+D ASLV
+Answer: B
+GSLV is mainly used for:
+A Low Earth orbit
+B Polar orbit
+C Geostationary orbit
+D Submarine launch
+Answer: C
+Which mission is related to Mars?
+A Chandrayaan
+B Gaganyaan
+C Mangalyaan
+D Aditya
+Answer: C
+Chandrayaan missions are related to:
+A Sun
+B Moon
+C Mars
+D Venus
+Answer: B
+Aditya-L1 mission studies:
+A Moon
+B Mars
+C Sun
+D Earth
+Answer: C
+What is the function of satellites?
+A Communication
+B Weather monitoring
+C Navigation
+D All of the above
+Answer: D
+
+Which satellite system is used for communication in India?
+A NAVIC
+B INSAT
+C PSLV
+D GSLV
+Answer: B
+GPS stands for:
+A Global Positioning System
+B General Positioning Satellite
+C Global Power System
+D General Power Satellite
+Answer: A
+Remote sensing is used for:
+A Gaming
+B Earth observation
+C Transport
+D Cooking
+Answer: B
+Which orbit is used for communication satellites?
+A Polar orbit
+B Geostationary orbit
+C Low orbit
+D Elliptical orbit
+Answer: B
+A geostationary satellite moves:
+A Faster than Earth
+B Slower than Earth
+C Same speed as Earth rotation
+D Opposite direction
+Answer: C
+Which country launched the first satellite?
+A USA
+B Russia (USSR)
+C China
+D India
+Answer: B
+Sputnik-1 was launched in:
+A 1947
+B 1957
+C 1967
+D 1977
+Answer: B
+First Indian in space was:
+A Kalpana Chawla
+B Rakesh Sharma
+C Sunita Williams
+D Vikram Sarabhai
+Answer: B
+Gaganyaan mission is for:
+A Moon landing
+B Human spaceflight
+C Mars mission
+D Solar study
+Answer: B
+NAVIC is India’s:
+A Satellite
+B Navigation system
+C Rocket
+D Telescope
+Answer: B
+
+What is LEO?
+A Large Earth Orbit
+B Low Earth Orbit
+C Long Earth Orbit
+D Low Energy Orbit
+Answer: B
+Which orbit is closest to Earth?
+A GEO
+B MEO
+C LEO
+D HEO
+Answer: C
+MEO is used for:
+A Weather satellites
+B Navigation satellites
+C Military use
+D None
+Answer: B
+Cryogenic engines use:
+A Petrol
+B Diesel
+C Liquid hydrogen
+D Coal
+Answer: C
+Rocket propulsion is based on:
+A Newton’s First Law
+B Newton’s Second Law
+C Newton’s Third Law
+D Law of gravity
+Answer: C
+Escape velocity is:
+A Speed to orbit Earth
+B Speed to leave Earth gravity
+C Speed to land
+D Speed of light
+Answer: B
+Escape velocity of Earth is approx:
+A 5 km/s
+B 8 km/s
+C 11.2 km/s
+D 20 km/s
+Answer: C
+Payload refers to:
+A Rocket fuel
+B Rocket engine
+C Load carried by rocket
+D Satellite body
+Answer: C
+ISRO headquarters is located in:
+A Delhi
+B Mumbai
+C Bengaluru
+D Chennai
+Answer: C
+Chandrayaan-1 discovered:
+A Gold
+B Water on Moon
+C Oxygen
+D Helium
+Answer: B
+
+What is telemetry?
+A Fuel
+B Data transmission
+C Rocket
+D Orbit
+Answer: B
+Space debris refers to:
+A Stars
+B Waste in orbit
+C Planets
+D Comets
+Answer: B
+Which is a reusable launch system?
+A PSLV
+B GSLV
+C Space Shuttle
+D SLV
+Answer: C
+ISS stands for:
+A International Space Station
+B Indian Space Station
+C International Satellite System
+D None
+Answer: A
+Who was first man in space?
+A Neil Armstrong
+B Yuri Gagarin
+C Buzz Aldrin
+D Rakesh Sharma
+Answer: B
+First human on Moon:
+A Yuri Gagarin
+B Neil Armstrong
+C Kalpana Chawla
+D Sunita Williams
+Answer: B
+Which planet is called Red Planet?
+A Venus
+B Mars
+C Jupiter
+D Saturn
+Answer: B
+Which planet has rings?
+A Earth
+B Mars
+C Saturn
+D Mercury
+Answer: C
+Largest planet is:
+A Earth
+B Jupiter
+C Saturn
+D Neptune
+Answer: B
+Smallest planet is:
+A Mercury
+B Venus
+C Mars
+D Earth
+Answer: A
+Moon is:
+A Star
+B Planet
+C Natural satellite
+D Asteroid
+Answer: C
+Sun is a:
+A Planet
+B Star
+C Satellite
+D Asteroid
+Answer: B
+Galaxy we live in:
+A Andromeda
+B Milky Way
+C Orion
+D Virgo
+Answer: B
+Light year is:
+A Time unit
+B Distance unit
+C Speed unit
+D Energy unit
+Answer: B
+Comets are made of:
+A Rock
+B Ice and dust
+C Gas
+D Metal
+Answer: B
+Asteroids are found in:
+A Orbit of Earth
+B Between Mars and Jupiter
+C Near Sun
+D None
+Answer: B
+Telescope is used for:
+A Cooking
+B Observing space
+C Transport
+D Mining
+Answer: B
+Hubble is a:
+A Rocket
+B Telescope
+C Satellite
+D Planet
+Answer: B
+Space suit protects from:
+A Rain
+B Vacuum
+C Dust
+D Heat only
+Answer: B
+Vacuum means:
+A Air
+B No air
+C Water
+D Gas
+Answer: B
+
+Gravity is a:
+A Force
+B Energy
+C Speed
+D Power
+Answer: A
+Orbit is:
+A Straight path
+B Circular path
+C Path around object
+D None
+Answer: C
+Mars rover is:
+A Human
+B Robot
+C Animal
+D Satellite
+Answer: B
+Launch pad is:
+A Landing site
+B Rocket base
+C Fuel tank
+D Orbit
+Answer: B
+Booster provides:
+A Direction
+B Extra thrust
+C Fuel
+D Cooling
+Answer: B
+Solar panels generate:
+A Heat
+B Electricity
+C Sound
+D Light
+Answer: B
+Satellite lifespan is:
+A Infinite
+B Limited
+C Fixed
+D Unknown
+Answer: B
+Space probe is used for:
+A War
+B Exploration
+C Farming
+D Transport
+Answer: B
+Re-entry means:
+A Launch
+B Entering atmosphere
+C Orbiting
+D Landing
+Answer: B
+AI in space helps in:
+A Cooking
+B Automation
+C Driving
+D Cleaning
+Answer: B
+Venus is known as:
+A Red planet
+B Hottest planet
+C Cold planet
+D Blue planet
+Answer: B
+Uranus rotates:
+A Normally
+B Sideways
+C Fast
+D Slow
+Answer: B
+Neptune is:
+A Closest planet
+B Farthest planet
+C Smallest
+D Brightest
+Answer: B
+Pluto is classified as:
+A Planet
+B Star
+C Dwarf planet
+D Satellite
+Answer: C
+Weather forecasting uses:
+A Rockets
+B Satellites
+C Ships
+D Cars
+Answer: B
+Remote sensing collects:
+A Money
+B Data
+C Water
+D Food
+Answer: B
+Space mission is:
+A Random
+B Planned
+C Natural
+D Accidental
+Answer: B
+Launch window means:
+A Door
+B Time period
+C Fuel
+D Orbit
+Answer: B
+Rocket stages help in:
+A Speed increase
+B Weight increase
+C Cooling
+D Stopping
+Answer: A
+Gravity assist helps in:
+A Slowing
+B Speed gain
+C Stopping
+D Turning
+Answer: B
+Space exploration is for:
+A Fun
+B Research
+C War
+D Travel
+Answer: B
+Satellite communication uses:
+A Signals
+B Water
+C Food
+D Light
+Answer: A
+Fuel efficiency is:
+A Not important
+B Important
+C Useless
+D Optional
+Answer: B
+Orbit change is called:
+A Motion
+B Maneuver
+C Speed
+D Travel
+Answer: B
+Space mining is:
+A Past
+B Future technology
+C Useless
+D Dangerous
+Answer: B
+Rocket fuel is:
+A Solid/liquid
+B Gas only
+C Liquid only
+D None
+Answer: A
+Control system ensures:
+A Guidance
+B Heat
+C Speed
+D Fuel
+Answer: A
+ISS orbits Earth in:
+A LEO
+B GEO
+C MEO
+D None
+Answer: A
+Chandrayaan-3 achieved:
+A Orbit
+B Landing
+C Flyby
+D Explosion
+Answer: B
+Space shuttle is:
+A Disposable
+B Reusable
+C Satellite
+D Probe
+Answer: B
+Sun energy is:
+A Renewable
+B Non-renewable
+C Limited
+D None
+Answer: A
+Satellite images help in:
+A Mapping
+B Cooking
+C Driving
+D Shopping
+Answer: A
+Orbit depends on:
+A Gravity
+B Speed
+C Both
+D None
+Answer: C
+Rocket launch needs:
+A Fuel
+B Oxygen
+C Both
+D None
+Answer: C
+Space travel is difficult due to:
+A Gravity
+B Vacuum
+C Distance
+D All
+Answer: D
+Astronauts wear suits due to:
+A Cold
+B Heat
+C No air
+D All
+Answer: D
+Mars has:
+A Water only
+B Ice
+C Lava
+D None
+Answer: B
+Jupiter is:
+A Gas giant
+B Rock
+C Ice
+D Liquid
+Answer: A
+Saturn rings are made of:
+A Rock
+B Ice
+C Dust
+D All
+Answer: D
+Earth atmosphere protects from:
+A Heat
+B Radiation
+C Meteors
+D All
+Answer: D
+Space debris can:
+A Help
+B Damage satellites
+C Increase fuel
+D None
+Answer: B
+Launch vehicle carries:
+A Humans
+B Satellites
+C Both
+D None
+Answer: C
+Solar system has:
+A 7 planets
+B 8 planets
+C 9 planets
+D 10 planets
+Answer: B
+Earth rotates in:
+A 12 hrs
+B 24 hrs
+C 48 hrs
+D 72 hrs
+Answer: B
+Revolution period of Earth:
+A 365 days
+B 100 days
+C 200 days
+D 400 days
+Answer: A
+Moon revolution time:
+A 7 days
+B 14 days
+C 27 days
+D 60 days
+Answer: C
+Gravity decreases with:
+A Height
+B Distance
+C Both
+D None
+Answer: C
+Satellite speed is:
+A Low
+B Medium
+C High
+D Zero
+Answer: C
+Space technology helps in:
+A Development
+B Communication
+C Research
+D All
+Answer: D
+Future of space tech is:
+A Declining
+B Growing
+C Static
+D Unknown
+Answer: B
+
+1–10
+What is the primary aim of the Indian Space Programme?
+A Military dominance
+B Socio-economic development
+C Tourism
+D Entertainment
+Answer: B
+Who is known as the father of the Indian Space Programme?
+A APJ Abdul Kalam
+B Vikram Sarabhai
+C Homi Bhabha
+D Satish Dhawan
+Answer: B
+ISRO was established in which year?
+A 1950
+B 1965
+C 1969
+D 1975
+Answer: C
+ISRO works under which department?
+A Ministry of Defence
+B Department of Space
+C Ministry of Science
+D Ministry of Home Affairs
+Answer: B
+India’s first satellite Aryabhata was launched in:
+A 1970
+B 1975
+C 1980
+D 1985
+Answer: B
+Aryabhata was launched from which country?
+A USA
+B France
+C USSR (Russia)
+D India
+Answer: C
+Which was India’s first successful launch vehicle?
+A PSLV
+B GSLV
+C SLV-3
+D ASLV
+Answer: C
+SLV-3 was successfully launched in:
+A 1975
+B 1980
+C 1985
+D 1990
+Answer: B
+Who was the project director of SLV-3?
+A Vikram Sarabhai
+B APJ Abdul Kalam
+C Satish Dhawan
+D Rakesh Sharma
+Answer: B
+Rohini satellite was launched using:
+A PSLV
+B GSLV
+C SLV-3
+D ASLV
+Answer: C
+
+INSAT system is mainly used for:
+A Defence
+B Communication
+C Agriculture
+D Mining
+Answer: B
+IRS satellites are used for:
+A Navigation
+B Remote sensing
+C Defence
+D Transport
+Answer: B
+PSLV stands for:
+A Polar Satellite Launch Vehicle
+B Public Satellite Launch Vehicle
+C Private Satellite Launch Vehicle
+D None
+Answer: A
+GSLV stands for:
+A Geo Satellite Launch Vehicle
+B Geosynchronous Satellite Launch Vehicle
+C General Satellite Launch Vehicle
+D None
+Answer: B
+Which rocket is known as ISRO’s workhorse?
+A GSLV
+B PSLV
+C SLV
+D ASLV
+Answer: B
+Which mission made India reach Mars orbit?
+A Chandrayaan-1
+B Chandrayaan-2
+C Mangalyaan
+D Aditya-L1
+Answer: C
+Mangalyaan was launched in:
+A 2010
+B 2013
+C 2015
+D 2018
+Answer: B
+Chandrayaan-1 was launched in:
+A 2005
+B 2008
+C 2010
+D 2013
+Answer: B
+Chandrayaan-2 consisted of:
+A Orbiter only
+B Lander only
+C Orbiter, Lander and Rover
+D Rover only
+Answer: C
+Name of Chandrayaan-2 lander:
+A Pragyan
+B Vikram
+C Aryabhata
+D Rohini
+Answer: B
+Chandrayaan-3 achieved what milestone?
+A Mars landing
+B Orbit only
+C Soft landing on Moon
+D Sun mission
+Answer: C
+Name of rover in Chandrayaan-3:
+A Vikram
+B Pragyan
+C Rohini
+D Arya
+Answer: B
+Aditya-L1 mission studies:
+A Moon
+B Mars
+C Sun
+D Venus
+Answer: C
+Gaganyaan mission is related to:
+A Satellite launch
+B Human spaceflight
+C Moon exploration
+D Mars mission
+Answer: B
+NAVIC system is developed by:
+A NASA
+B ISRO
+C DRDO
+D ESA
+Answer: B
+NAVIC provides:
+A Communication
+B Navigation
+C Defence
+D Fuel
+Answer: B
+ISRO’s commercial arm is:
+A DRDO
+B NSIL
+C HAL
+D BHEL
+Answer: B
+ANTRIX Corporation is associated with:
+A Defence
+B ISRO commercial services
+C Agriculture
+D Banking
+Answer: B
+Which rocket uses cryogenic engine?
+A PSLV
+B GSLV
+C SLV
+D ASLV
+Answer: B
+RLV stands for:
+A Rocket Launch Vehicle
+B Reusable Launch Vehicle
+C Remote Launch Vehicle
+D None
+Answer: B
+
+Satish Dhawan Space Centre is located at:
+A Kerala
+B Karnataka
+C Andhra Pradesh
+D Tamil Nadu
+Answer: C
+Sriharikota is famous for:
+A Mining
+B Rocket launching
+C Farming
+D Industry
+Answer: B
+Which mission discovered water on the Moon?
+A Chandrayaan-1
+B Mangalyaan
+C Gaganyaan
+D Aditya
+Answer: A
+Mars Orbiter Mission is also called:
+A Chandrayaan
+B Mangalyaan
+C Rohini
+D Vikram
+Answer: B
+India reached Mars orbit in:
+A First attempt
+B Second attempt
+C Third attempt
+D Fourth attempt
+Answer: A
+ISRO launched how many satellites in one mission (record)?
+A 50
+B 75
+C 104
+D 150
+Answer: C
+RISAT satellites are used for:
+A Radar imaging
+B Communication
+C Navigation
+D Agriculture
+Answer: A
+Cartosat satellites are used for:
+A Weather
+B Mapping
+C Defence
+D Mining
+Answer: B
+Oceansat is used for:
+A Space study
+B Ocean study
+C Defence
+D Agriculture
+Answer: B
+INSAT-3D is used for:
+A Weather forecasting
+B Navigation
+C Defence
+D Mining
+Answer: A
+
+GSAT satellites are mainly used for:
+A Communication
+B Navigation
+C Defence
+D Weather
+Answer: A
+SSLV is designed for:
+A Heavy satellites
+B Small satellites
+C Human missions
+D Defence
+Answer: B
+LVM3 is also known as:
+A PSLV
+B GSLV Mk III
+C SLV
+D SSLV
+Answer: B
+GSLV Mk III is used for:
+A Light payload
+B Heavy payload
+C Medium payload
+D None
+Answer: B
+EDUSAT is used for:
+A Defence
+B Education
+C Navigation
+D Agriculture
+Answer: B
+AstroSat is a:
+A Rocket
+B Satellite
+C Space observatory
+D Planet
+Answer: C
+Megha-Tropiques studies:
+A Weather and climate
+B Defence
+C Agriculture
+D Mining
+Answer: A
+Kalpana-1 satellite is used for:
+A Communication
+B Weather
+C Navigation
+D Defence
+Answer: B
+Chandrayaan-2 orbiter is:
+A Destroyed
+B Still active
+C Lost
+D None
+Answer: B
+Vikram lander crash happened in:
+A Chandrayaan-1
+B Chandrayaan-2
+C Chandrayaan-3
+D None
+Answer: B
+Gaganyaan will send:
+A Satellites
+B Humans
+C Robots
+D Animals
+Answer: B
+Space capsule recovery experiment tests:
+A Launch
+B Re-entry
+C Orbit
+D Fuel
+Answer: B
+ISRO mainly uses:
+A Imported technology
+B Indigenous technology
+C Foreign rockets
+D None
+Answer: B
+PSLV can launch:
+A Single satellite
+B Multiple satellites
+C Humans
+D None
+Answer: B
+Mars mission cost of India was:
+A Very high
+B Moderate
+C Very low
+D None
+Answer: C
+Chandrayaan-3 landing site is near:
+A Equator
+B North pole
+C South pole
+D Center
+Answer: C
+NAVIC covers:
+A Whole world
+B India and nearby region
+C Asia only
+D Europe
+Answer: B
+IN-SPACe is:
+A Rocket
+B Regulator
+C Satellite
+D Fuel
+Answer: B
+NSIL handles:
+A Defence
+B Commercial launches
+C Farming
+D Banking
+Answer: B
+ISRO missions focus on:
+A War
+B Development
+C Politics
+D Entertainment
+Answer: B
+
+Satellite data helps in:
+A Mapping
+B Weather
+C Disaster management
+D All of the above
+Answer: D
+Weather satellites help in:
+A Farming
+B Disaster warning
+C Navigation
+D Defence
+Answer: B
+Ocean satellites help in:
+A Mining
+B Fishing
+C Driving
+D Cooking
+Answer: B
+ISRO collaborates with:
+A Only India
+B International agencies
+C Private companies only
+D None
+Answer: B
+Rocket fuel is mainly:
+A Chemical
+B Nuclear
+C Solar
+D Wind
+Answer: A
+Satellite launch is:
+A Simple
+B Complex
+C Easy
+D Cheap
+Answer: B
+Chandrayaan missions focus on:
+A Mars
+B Moon
+C Sun
+D Venus
+Answer: B
+Mangalyaan studies:
+A Earth
+B Moon
+C Mars
+D Sun
+Answer: C
+Aditya-L1 studies:
+A Moon
+B Sun
+C Mars
+D Venus
+Answer: B
+Gaganyaan aims for:
+A Moon landing
+B Human spaceflight
+C Satellite launch
+D Mars mission
+Answer: B
+PSLV success rate is:
+A Low
+B Moderate
+C High
+D None
+Answer: C
+GSLV improvement is due to:
+A Solar energy
+B Cryogenic engine
+C Nuclear power
+D Wind energy
+Answer: B
+Satellite lifespan is:
+A Infinite
+B Limited
+C Fixed
+D None
+Answer: B
+Rocket stages are:
+A Single
+B Double
+C Multi-stage
+D None
+Answer: C
+ISRO budget is:
+A Very high
+B Moderate but efficient
+C Low and inefficient
+D None
+Answer: B
+Small satellites demand is:
+A Low
+B Decreasing
+C High
+D None
+Answer: C
+Space startups in India are:
+A Decreasing
+B Increasing
+C Stable
+D None
+Answer: B
+Space missions are:
+A Scientific
+B Political
+C Business only
+D None
+Answer: A
+Indian rockets are known for:
+A Failure
+B Reliability
+C Slow speed
+D None
+Answer: B
+ISRO achievements give:
+A Loss
+B Global recognition
+C Problems
+D None
+Answer: B
+Launch frequency is:
+A Decreasing
+B Stable
+C Increasing
+D None
+Answer: C
+Satellite communication helps in:
+A TV
+B Internet
+C Phone
+D All of the above
+Answer: D
+Remote sensing helps in:
+A Resource mapping
+B Cooking
+C Driving
+D Gaming
+Answer: A
+Chandrayaan-3 success shows:
+A Failure
+B Progress
+C Decline
+D None
+Answer: B
+Mars mission shows:
+A Weakness
+B Capability
+C Failure
+D None
+Answer: B
+Aditya mission shows:
+A Moon study
+B Solar study
+C Mars study
+D None
+Answer: B
+Space tech helps in:
+A Development
+B Communication
+C Research
+D All
+Answer: D
+Indian space programme is:
+A Weak
+B Strong
+C Failing
+D None
+Answer: B
+ISRO future is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Space exploration is:
+A Useless
+B Important
+C Dangerous only
+D None
+Answer: B
+Satellites help in:
+A Defence
+B Communication
+C Weather
+D All
+Answer: D
+India’s space missions are:
+A Costly
+B Cost-effective
+C Slow
+D None
+Answer: B
+ISRO’s success is due to:
+A Planning
+B Technology
+C Teamwork
+D All
+Answer: D
+Rocket launches require:
+A Fuel
+B Planning
+C Technology
+D All
+Answer: D
+Space missions improve:
+A Economy
+B Science
+C Technology
+D All
+Answer: D
+Satellite navigation helps in:
+A Transport
+B Defence
+C Mapping
+D All
+Answer: D
+ISRO uses satellites for:
+A Development
+B Research
+C Communication
+D All
+Answer: D
+India’s space progress is:
+A Slow
+B Fast
+C Declining
+D None
+Answer: B
+Space programme importance is:
+A Low
+B Medium
+C High
+D None
+Answer: C
+Indian Space Programme is:
+A Failure
+B Successful
+C Weak
+D None
+Answer: B
+
+What is a satellite?
+A A star
+B A planet
+C An object that orbits another body
+D A rocket
+Answer: C
+Artificial satellites are launched for:
+A Entertainment
+B Scientific and practical purposes
+C Cooking
+D Transport only
+Answer: B
+Which is a natural satellite?
+A INSAT
+B Moon
+C PSLV
+D GSLV
+Answer: B
+Which of the following is an artificial satellite?
+A Moon
+B Sun
+C INSAT
+D Mars
+Answer: C
+Satellites revolve around Earth due to:
+A Magnetism
+B Gravity
+C Pressure
+D Heat
+Answer: B
+The path followed by a satellite is called:
+A Track
+B Orbit
+C Route
+D Line
+Answer: B
+LEO stands for:
+A Large Earth Orbit
+B Low Earth Orbit
+C Long Earth Orbit
+D Low Energy Orbit
+Answer: B
+Which orbit is closest to Earth?
+A GEO
+B MEO
+C LEO
+D None
+Answer: C
+GEO stands for:
+A General Earth Orbit
+B Geostationary Earth Orbit
+C Global Earth Orbit
+D None
+Answer: B
+Geostationary satellites appear:
+A Moving
+B Stationary
+C Fast moving
+D Invisible
+Answer: B
+Geostationary satellites are used for:
+A Farming
+B Communication
+C Mining
+D Transport
+Answer: B
+MEO is mainly used for:
+A Weather
+B Navigation
+C Defence
+D Farming
+Answer: B
+GPS satellites operate in:
+A LEO
+B MEO
+C GEO
+D None
+Answer: B
+NAVIC system uses:
+A Only LEO
+B Only GEO
+C Combination of orbits
+D None
+Answer: C
+Communication satellites transmit:
+A Water
+B Signals
+C Fuel
+D Food
+Answer: B
+Weather satellites help in:
+A Cooking
+B Forecasting weather
+C Driving
+D Mining
+Answer: B
+Remote sensing satellites collect:
+A Money
+B Data
+C Water
+D Food
+Answer: B
+Which satellite is used for mapping?
+A Cartosat
+B INSAT
+C GSAT
+D NAVIC
+Answer: A
+INSAT is mainly used for:
+A Defence
+B Communication
+C Mining
+D Agriculture
+Answer: B
+GSAT satellites are used for:
+A Navigation
+B Communication
+C Defence
+D Transport
+Answer: B
+Satellites require power from:
+A Coal
+B Solar panels
+C Petrol
+D Diesel
+Answer: B
+Solar panels convert:
+A Heat to sound
+B Light to electricity
+C Sound to heat
+D None
+Answer: B
+Satellite lifespan is:
+A Infinite
+B Limited
+C Fixed
+D None
+Answer: B
+Satellite communication uses:
+A Radio waves
+B Water waves
+C Sound waves
+D None
+Answer: A
+Transponders in satellites are used for:
+A Cooking
+B Signal transmission
+C Fuel storage
+D Cooling
+Answer: B
+Satellite launch requires:
+A Car
+B Rocket
+C Ship
+D Train
+Answer: B
+Orbit depends on:
+A Speed
+B Gravity
+C Both
+D None
+Answer: C
+Escape velocity is needed to:
+A Stay on Earth
+B Leave Earth
+C Orbit slowly
+D None
+Answer: B
+LEO satellites are used for:
+A Communication
+B Imaging
+C Navigation
+D Mining
+Answer: B
+GEO satellites are located at approx:
+A 100 km
+B 1000 km
+C 36000 km
+D 50000 km
+Answer: C
+Satellite speed is:
+A Low
+B Medium
+C High
+D Zero
+Answer: C
+Orbiting satellites avoid falling due to:
+A Speed
+B Gravity balance
+C Both
+D None
+Answer: C
+Weather satellites observe:
+A Oceans only
+B Atmosphere
+C Land only
+D Underground
+Answer: B
+Remote sensing is used in:
+A Agriculture
+B Disaster management
+C Mapping
+D All
+Answer: D
+Satellite images help in:
+A Planning
+B Monitoring
+C Analysis
+D All
+Answer: D
+Polar satellites move:
+A Around equator
+B Pole to pole
+C In straight line
+D None
+Answer: B
+Polar orbit satellites are used for:
+A Communication
+B Imaging
+C Navigation
+D Defence
+Answer: B
+Communication satellites remain over:
+A Same location
+B Random location
+C Poles
+D None
+Answer: A
+Satellite antenna is used for:
+A Cooking
+B Receiving signals
+C Fuel storage
+D None
+Answer: B
+Satellite control is done from:
+A Space
+B Ground station
+C Ocean
+D Air
+Answer: B
+Ground station communicates with:
+A Rocket
+B Satellite
+C Aircraft
+D None
+Answer: B
+Satellite failure can be due to:
+A Space debris
+B Technical issues
+C Radiation
+D All
+Answer: D
+Space debris can:
+A Help satellites
+B Damage satellites
+C Increase speed
+D None
+Answer: B
+Satellite re-entry means:
+A Launch
+B Enter atmosphere
+C Orbit
+D None
+Answer: B
+Satellite navigation helps in:
+A Driving
+B Mapping
+C Defence
+D All
+Answer: D
+GPS is owned by:
+A India
+B USA
+C Russia
+D China
+Answer: B
+NAVIC is owned by:
+A USA
+B India
+C Russia
+D China
+Answer: B
+Galileo system belongs to:
+A India
+B USA
+C Europe
+D China
+Answer: C
+GLONASS belongs to:
+A USA
+B Russia
+C China
+D India
+Answer: B
+Satellite communication helps in:
+A TV
+B Internet
+C Phone
+D All
+Answer: D
+Weather prediction uses:
+A Satellites
+B Ships
+C Cars
+D None
+Answer: A
+Disaster warning is given by:
+A Satellites
+B Rockets
+C Planes
+D None
+Answer: A
+Satellite technology helps in:
+A Development
+B Communication
+C Research
+D All
+Answer: D
+Satellite signals travel at:
+A Slow speed
+B Medium speed
+C Speed of light
+D None
+Answer: C
+Satellite orbit change is called:
+A Motion
+B Maneuver
+C Speed
+D None
+Answer: B
+Fuel in satellites is used for:
+A Cooking
+B Orbit adjustment
+C Cooling
+D None
+Answer: B
+Satellite weight is important for:
+A Cost
+B Launch
+C Orbit
+D All
+Answer: D
+Mini satellites are:
+A Large
+B Small
+C Medium
+D None
+Answer: B
+CubeSats are:
+A Big satellites
+B Small satellites
+C Rockets
+D None
+Answer: B
+Satellite communication delay is called:
+A Lag
+B Delay
+C Latency
+D None
+Answer: C
+Satellite footprint means:
+A Area covered
+B Weight
+C Size
+D None
+Answer: A
+Satellite coverage depends on:
+A Orbit
+B Height
+C Power
+D All
+Answer: D
+Satellite system includes:
+A Space segment
+B Ground segment
+C User segment
+D All
+Answer: D
+Earth observation satellites are used for:
+A Mapping
+B Weather
+C Agriculture
+D All
+Answer: D
+Satellite technology supports:
+A Defence
+B Communication
+C Navigation
+D All
+Answer: D
+Satellite communication is:
+A Wired
+B Wireless
+C Mechanical
+D None
+Answer: B
+Satellite signals can be affected by:
+A Weather
+B Obstacles
+C Interference
+D All
+Answer: D
+Satellite life ends due to:
+A Fuel exhaustion
+B Damage
+C Aging
+D All
+Answer: D
+Satellite orbit types include:
+A LEO
+B MEO
+C GEO
+D All
+Answer: D
+Satellite launch cost depends on:
+A Weight
+B Distance
+C Fuel
+D All
+Answer: D
+Satellite tracking is done using:
+A Radar
+B Sensors
+C Computers
+D All
+Answer: D
+Satellite helps in military for:
+A Surveillance
+B Communication
+C Navigation
+D All
+Answer: D
+Satellite data is used in:
+A Weather
+B Agriculture
+C Disaster
+D All
+Answer: D
+Satellite images are:
+A Clear
+B Detailed
+C Useful
+D All
+Answer: D
+Satellite orbit stability depends on:
+A Gravity
+B Speed
+C Both
+D None
+Answer: C
+Satellite can be controlled by:
+A Remote commands
+B Manual control
+C Automatic systems
+D All
+Answer: D
+Satellite systems use:
+A Computers
+B Sensors
+C Software
+D All
+Answer: D
+Satellite communication is global because:
+A High orbit
+B Wide coverage
+C Fast signals
+D All
+Answer: D
+Satellite technology growth is:
+A Slow
+B Fast
+C Declining
+D None
+Answer: B
+Future satellites will be:
+A Larger
+B Smarter
+C Slower
+D None
+Answer: B
+Satellite helps in GPS for:
+A Location
+B Direction
+C Tracking
+D All
+Answer: D
+Satellite-based internet is:
+A Slow
+B Fast
+C Expanding
+D None
+Answer: C
+Satellite navigation accuracy depends on:
+A Signals
+B Satellites
+C Receivers
+D All
+Answer: D
+Satellite communication uses:
+A Microwave signals
+B Radio signals
+C Both
+D None
+Answer: C
+Satellite antenna types include:
+A Parabolic
+B Dipole
+C Array
+D All
+Answer: D
+Satellite thermal control is needed for:
+A Cooling
+B Heating
+C Balance
+D All
+Answer: D
+Satellite stabilization methods include:
+A Spin
+B Three-axis
+C Both
+D None
+Answer: C
+Satellite payload includes:
+A Instruments
+B Sensors
+C Cameras
+D All
+Answer: D
+Satellite bus refers to:
+A Transport
+B Structure
+C Fuel
+D None
+Answer: B
+Satellite technology is used in:
+A Banking
+B Communication
+C Weather
+D All
+Answer: D
+Satellite signals are received by:
+A Dish antenna
+B Tower
+C Cable
+D None
+Answer: A
+Satellite orbit decay occurs due to:
+A Friction
+B Gravity
+C Air resistance
+D Both A and C
+Answer: D
+Satellite positioning uses:
+A Timing signals
+B Distance calculation
+C Both
+D None
+Answer: C
+Satellite coverage area is called:
+A Range
+B Footprint
+C Area
+D None
+Answer: B
+Satellite communication improves:
+A Connectivity
+B Speed
+C Coverage
+D All
+Answer: D
+Satellite data processing uses:
+A Computers
+B AI
+C Software
+D All
+Answer: D
+Satellite launches are done from:
+A Ground stations
+B Launch pads
+C Airports
+D None
+Answer: B
+Satellite signals travel through:
+A Vacuum
+B Air
+C Water
+D None
+Answer: A
+Satellite communication is essential for:
+A Global connectivity
+B Weather
+C Defence
+D All
+Answer: D
+Satellite technology future is:
+A Declining
+B Growing rapidly
+C Static
+D None
+Answer: B
+
+What is remote sensing?
+A Direct contact observation
+B Collecting data without physical contact
+C Cooking method
+D Transport system
+Answer: B
+Remote sensing is mainly used to:
+A Play games
+B Observe Earth
+C Cook food
+D Travel
+Answer: B
+Which device is used in remote sensing?
+A Sensor
+B Engine
+C Pump
+D Motor
+Answer: A
+Remote sensing satellites collect data from:
+A Underground
+B Space
+C Ocean only
+D Air only
+Answer: B
+GIS stands for:
+A Global Information System
+B Geographic Information System
+C General Information System
+D None
+Answer: B
+GIS is used to:
+A Store and analyze data
+B Cook food
+C Drive vehicles
+D None
+Answer: A
+Remote sensing works using:
+A Sound waves
+B Electromagnetic radiation
+C Water waves
+D None
+Answer: B
+Which type of sensing uses sunlight?
+A Active
+B Passive
+C Manual
+D None
+Answer: B
+Active remote sensing uses:
+A Sunlight
+B Own energy source
+C Wind
+D Water
+Answer: B
+Radar is an example of:
+A Passive sensing
+B Active sensing
+C Manual sensing
+D None
+Answer: B
+Which satellite is used for remote sensing in India?
+A INSAT
+B IRS
+C GSAT
+D NAVIC
+Answer: B
+Remote sensing helps in:
+A Agriculture
+B Weather forecasting
+C Disaster management
+D All
+Answer: D
+GIS helps in:
+A Mapping
+B Analysis
+C Planning
+D All
+Answer: D
+Remote sensing data is collected in form of:
+A Text
+B Images
+C Audio
+D None
+Answer: B
+Resolution in remote sensing means:
+A Size
+B Clarity of image
+C Speed
+D None
+Answer: B
+Spatial resolution refers to:
+A Time
+B Area detail
+C Speed
+D None
+Answer: B
+Temporal resolution refers to:
+A Time interval
+B Space
+C Speed
+D None
+Answer: A
+Spectral resolution refers to:
+A Color detail
+B Size
+C Time
+D None
+Answer: A
+GIS uses layers of:
+A Data
+B Water
+C Fuel
+D None
+Answer: A
+GPS is used in GIS for:
+A Cooking
+B Location tracking
+C Driving only
+D None
+Answer: B
+Remote sensing is useful in:
+A Forest monitoring
+B Crop analysis
+C Urban planning
+D All
+Answer: D
+Which waves are used in remote sensing?
+A Mechanical
+B Electromagnetic
+C Sound
+D None
+Answer: B
+Infrared radiation is used to detect:
+A Temperature
+B Sound
+C Pressure
+D None
+Answer: A
+Microwave sensing is useful in:
+A Cloud penetration
+B Sound
+C Heat
+D None
+Answer: A
+Remote sensing satellites orbit in:
+A GEO
+B LEO
+C Polar orbit
+D None
+Answer: C
+GIS data types include:
+A Raster
+B Vector
+C Both
+D None
+Answer: C
+Raster data is:
+A Continuous data
+B Discrete data
+C None
+D Sound
+Answer: A
+Vector data includes:
+A Points
+B Lines
+C Polygons
+D All
+Answer: D
+GIS is widely used in:
+A Disaster management
+B Urban planning
+C Agriculture
+D All
+Answer: D
+Remote sensing helps in mineral exploration by:
+A Direct digging
+B Data analysis
+C Satellite imaging
+D None
+Answer: C
+Satellite images are processed using:
+A Computers
+B Machines
+C Tools
+D All
+Answer: D
+NDVI is used to measure:
+A Water
+B Vegetation
+C Soil
+D Air
+Answer: B
+GIS helps in disaster management by:
+A Prediction
+B Monitoring
+C Response planning
+D All
+Answer: D
+Remote sensing helps in weather forecasting by:
+A Data collection
+B Monitoring clouds
+C Tracking storms
+D All
+Answer: D
+GIS integrates:
+A Spatial data
+B Attribute data
+C Both
+D None
+Answer: C
+Remote sensing reduces:
+A Cost
+B Time
+C Effort
+D All
+Answer: D
+Thermal sensors detect:
+A Heat
+B Sound
+C Light
+D None
+Answer: A
+Remote sensing is useful in:
+A Ocean study
+B Land study
+C Atmosphere study
+D All
+Answer: D
+GIS software example is:
+A QGIS
+B Photoshop
+C Word
+D Excel
+Answer: A
+Satellite imagery helps in:
+A Mapping
+B Planning
+C Monitoring
+D All
+Answer: D
+LiDAR is used for:
+A Sound
+B Distance measurement
+C Heat
+D None
+Answer: B
+LiDAR uses:
+A Laser
+B Sound
+C Heat
+D None
+Answer: A
+Remote sensing helps in flood mapping by:
+A Data collection
+B Analysis
+C Monitoring
+D All
+Answer: D
+GIS supports decision making in:
+A Government
+B Business
+C Planning
+D All
+Answer: D
+Remote sensing is non-destructive because:
+A No contact
+B No energy
+C No data
+D None
+Answer: A
+Satellite images are used in:
+A Defence
+B Agriculture
+C Environment
+D All
+Answer: D
+Remote sensing accuracy depends on:
+A Sensor
+B Resolution
+C Data quality
+D All
+Answer: D
+GIS is useful in transportation for:
+A Route planning
+B Traffic analysis
+C Mapping
+D All
+Answer: D
+Remote sensing data is transmitted via:
+A Signals
+B Water
+C Air
+D None
+Answer: A
+GIS stores data in:
+A Layers
+B Files
+C Charts
+D None
+Answer: A
+Remote sensing satellites use:
+A Cameras
+B Sensors
+C Both
+D None
+Answer: C
+Image interpretation includes:
+A Shape
+B Size
+C Color
+D All
+Answer: D
+GIS analysis includes:
+A Overlay
+B Buffering
+C Mapping
+D All
+Answer: D
+Remote sensing helps in drought monitoring by:
+A Vegetation analysis
+B Soil analysis
+C Water study
+D All
+Answer: D
+Satellite data is updated:
+A Regularly
+B Rarely
+C Never
+D None
+Answer: A
+Remote sensing is useful in:
+A Climate study
+B Weather
+C Agriculture
+D All
+Answer: D
+GIS helps in:
+A Planning
+B Decision making
+C Analysis
+D All
+Answer: D
+Remote sensing reduces field work because:
+A Data from space
+B Fast
+C Accurate
+D All
+Answer: D
+Sensors detect:
+A Energy
+B Signals
+C Radiation
+D All
+Answer: D
+GIS is important for:
+A Government
+B Business
+C Science
+D All
+Answer: D
+Remote sensing helps in urban planning by:
+A Mapping cities
+B Monitoring growth
+C Planning infrastructure
+D All
+Answer: D
+GIS integrates data from:
+A Satellites
+B Surveys
+C GPS
+D All
+Answer: D
+Remote sensing data processing includes:
+A Correction
+B Analysis
+C Interpretation
+D All
+Answer: D
+Satellite data is used in agriculture for:
+A Crop monitoring
+B Yield prediction
+C Soil analysis
+D All
+Answer: D
+GIS helps in environmental management by:
+A Monitoring
+B Analysis
+C Planning
+D All
+Answer: D
+Remote sensing technology is:
+A Old
+B Modern
+C Outdated
+D None
+Answer: B
+GIS maps are:
+A Digital
+B Paper
+C Both
+D None
+Answer: C
+Remote sensing data is:
+A Digital
+B Analog
+C Both
+D None
+Answer: A
+Satellite images are processed using:
+A Software
+B Hardware
+C Both
+D None
+Answer: C
+Remote sensing is useful in defence for:
+A Surveillance
+B Mapping
+C Monitoring
+D All
+Answer: D
+GIS supports smart cities by:
+A Planning
+B Monitoring
+C Management
+D All
+Answer: D
+Remote sensing helps in forest management by:
+A Monitoring
+B Mapping
+C Conservation
+D All
+Answer: D
+Satellite sensors capture:
+A Energy
+B Radiation
+C Signals
+D All
+Answer: D
+GIS helps in resource management by:
+A Analysis
+B Planning
+C Monitoring
+D All
+Answer: D
+Remote sensing helps in climate change study by:
+A Data collection
+B Monitoring
+C Analysis
+D All
+Answer: D
+GIS is used in health sector for:
+A Disease mapping
+B Planning
+C Monitoring
+D All
+Answer: D
+Remote sensing is useful in archaeology by:
+A Site detection
+B Mapping
+C Analysis
+D All
+Answer: D
+GIS helps in disaster response by:
+A Mapping
+B Planning
+C Monitoring
+D All
+Answer: D
+Remote sensing images can be:
+A Visible
+B Infrared
+C Microwave
+D All
+Answer: D
+GIS helps in water management by:
+A Planning
+B Monitoring
+C Analysis
+D All
+Answer: D
+Remote sensing supports biodiversity conservation by:
+A Monitoring
+B Mapping
+C Analysis
+D All
+Answer: D
+GIS helps in land use planning by:
+A Mapping
+B Analysis
+C Planning
+D All
+Answer: D
+Remote sensing is cost-effective because:
+A Large area coverage
+B Fast
+C Accurate
+D All
+Answer: D
+GIS supports environmental protection by:
+A Monitoring
+B Planning
+C Analysis
+D All
+Answer: D
+Remote sensing helps in glacier study by:
+A Monitoring
+B Mapping
+C Analysis
+D All
+Answer: D
+GIS is used in logistics for:
+A Route planning
+B Tracking
+C Optimization
+D All
+Answer: D
+Remote sensing helps in oceanography by:
+A Temperature study
+B Current study
+C Pollution monitoring
+D All
+Answer: D
+GIS helps in crime mapping by:
+A Location tracking
+B Analysis
+C Planning
+D All
+Answer: D
+Remote sensing helps in air pollution study by:
+A Monitoring
+B Analysis
+C Mapping
+D All
+Answer: D
+GIS helps in energy sector by:
+A Planning
+B Monitoring
+C Analysis
+D All
+Answer: D
+Remote sensing helps in soil study by:
+A Moisture
+B Type
+C Fertility
+D All
+Answer: D
+GIS supports agriculture by:
+A Planning
+B Monitoring
+C Analysis
+D All
+Answer: D
+Remote sensing helps in wildfire detection by:
+A Monitoring
+B Mapping
+C Early warning
+D All
+Answer: D
+GIS helps in tourism by:
+A Mapping
+B Planning
+C Promotion
+D All
+Answer: D
+Remote sensing helps in rainfall study by:
+A Monitoring
+B Mapping
+C Analysis
+D All
+Answer: D
+GIS helps in population study by:
+A Mapping
+B Analysis
+C Planning
+D All
+Answer: D
+Remote sensing helps in coastal management by:
+A Monitoring
+B Mapping
+C Analysis
+D All
+Answer: D
+GIS helps in mining by:
+A Mapping
+B Planning
+C Monitoring
+D All
+Answer: D
+Remote sensing technology future is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+GIS importance is:
+A Low
+B Medium
+C High
+D None
+Answer: C
+
+What is the main purpose of navigation systems?
+A Cooking
+B Determining location
+C Entertainment
+D Farming
+Answer: B
+GPS stands for:
+A Global Positioning System
+B General Positioning Satellite
+C Global Power System
+D None
+Answer: A
+GPS is operated by:
+A India
+B USA
+C Russia
+D China
+Answer: B
+NAVIC stands for:
+A Navigation with Indian Constellation
+B National Vehicle Control
+C Navigation and Vehicle Control
+D None
+Answer: A
+NAVIC is developed by:
+A NASA
+B ISRO
+C DRDO
+D ESA
+Answer: B
+NAVIC provides coverage over:
+A Entire world
+B India and surrounding region
+C Europe
+D USA
+Answer: B
+GPS satellites orbit in:
+A LEO
+B MEO
+C GEO
+D None
+Answer: B
+Navigation systems use:
+A Sound waves
+B Electromagnetic signals
+C Water waves
+D None
+Answer: B
+GPS determines location using:
+A One satellite
+B Two satellites
+C Three or more satellites
+D None
+Answer: C
+Process of determining position is called:
+A Navigation
+B Triangulation
+C Tracking
+D None
+Answer: B
+GPS accuracy depends on:
+A Number of satellites
+B Signal quality
+C Receiver
+D All
+Answer: D
+NAVIC uses how many satellites (approx)?
+A 3
+B 5
+C 7
+D 10
+Answer: C
+Navigation satellites send:
+A Voice
+B Signals
+C Fuel
+D Food
+Answer: B
+GPS signals travel at:
+A Slow speed
+B Medium speed
+C Speed of light
+D None
+Answer: C
+Navigation systems require:
+A Receiver device
+B Engine
+C Fuel
+D None
+Answer: A
+GPS is used in:
+A Mobile phones
+B Cars
+C Aircraft
+D All
+Answer: D
+NAVIC is also called:
+A IRNSS
+B GPS
+C GLONASS
+D Galileo
+Answer: A
+IRNSS stands for:
+A Indian Regional Navigation Satellite System
+B International Radio Navigation System
+C Indian Radio Navigation System
+D None
+Answer: A
+GPS provides:
+A Location
+B Time
+C Speed
+D All
+Answer: D
+Navigation systems are useful for:
+A Transport
+B Defence
+C Mapping
+D All
+Answer: D
+GLONASS belongs to:
+A USA
+B Russia
+C China
+D India
+Answer: B
+Galileo system belongs to:
+A Europe
+B USA
+C India
+D China
+Answer: A
+BeiDou system belongs to:
+A India
+B USA
+C China
+D Russia
+Answer: C
+Navigation systems help in:
+A Route planning
+B Tracking
+C Location finding
+D All
+Answer: D
+GPS signals can be affected by:
+A Buildings
+B Weather
+C Interference
+D All
+Answer: D
+NAVIC provides better accuracy in:
+A USA
+B India
+C Europe
+D Africa
+Answer: B
+GPS satellites send signals continuously:
+A Yes
+B No
+C Sometimes
+D None
+Answer: A
+Navigation systems are based on:
+A Timing signals
+B Distance calculation
+C Both
+D None
+Answer: C
+Satellite clocks are:
+A Normal
+B Atomic clocks
+C Digital clocks
+D None
+Answer: B
+Atomic clocks provide:
+A Low accuracy
+B High accuracy
+C Medium accuracy
+D None
+Answer: B
+GPS receiver calculates:
+A Distance
+B Position
+C Speed
+D All
+Answer: D
+Navigation systems are used in shipping for:
+A Direction
+B Safety
+C Tracking
+D All
+Answer: D
+GPS is important for aviation because:
+A Navigation
+B Safety
+C Tracking
+D All
+Answer: D
+NAVIC provides services for:
+A Civil use
+B Military use
+C Both
+D None
+Answer: C
+Navigation system accuracy improves with:
+A More satellites
+B Better signals
+C Advanced receivers
+D All
+Answer: D
+GPS helps in disaster management by:
+A Tracking
+B Location identification
+C Rescue planning
+D All
+Answer: D
+GPS signals are weak because:
+A Long distance
+B Low power
+C Interference
+D All
+Answer: D
+Navigation systems require clear sky for:
+A Better signals
+B Faster speed
+C Cooling
+D None
+Answer: A
+GPS is free for:
+A Public use
+B Military only
+C Government only
+D None
+Answer: A
+NAVIC is designed mainly for:
+A India
+B USA
+C Europe
+D China
+Answer: A
+Navigation satellites are placed in:
+A LEO
+B MEO
+C GEO
+D Mixed orbits
+Answer: D
+GPS provides real-time data:
+A Yes
+B No
+C Sometimes
+D None
+Answer: A
+Navigation systems help in agriculture for:
+A Precision farming
+B Mapping
+C Planning
+D All
+Answer: D
+GPS helps in mobile apps like:
+A Maps
+B Delivery apps
+C Tracking apps
+D All
+Answer: D
+Navigation systems improve:
+A Efficiency
+B Safety
+C Accuracy
+D All
+Answer: D
+GPS errors can occur due to:
+A Atmosphere
+B Clock error
+C Signal delay
+D All
+Answer: D
+NAVIC signals are stronger in:
+A India region
+B USA
+C Europe
+D None
+Answer: A
+Navigation technology future is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Satellite navigation supports:
+A Smart cities
+B Transport
+C Defence
+D All
+Answer: D
+Navigation systems are essential for:
+A Modern life
+B Old systems
+C Entertainment only
+D None
+Answer: A
+
+Biotechnology primarily involves the use of:
+A Non-living materials
+B Living organisms or their systems
+C Mechanical tools
+D Chemical compounds only
+Answer: B
+The foundation of biotechnology lies in:
+A Physics
+B Chemistry
+C Biology
+D Mathematics
+Answer: C
+Which of the following is a core area of biotechnology mentioned in the text?
+A Astronomy
+B Genetic engineering
+C Geology
+D Mechanics
+Answer: B
+Genetic engineering deals with:
+A Study of genes
+B Modification of genetic material
+C Study of cells
+D None
+Answer: B
+DNA is responsible for:
+A Energy production
+B Carrying genetic information
+C Digestion
+D Respiration
+Answer: B
+The structure of DNA was discovered by:
+A Mendel
+B Watson and Crick
+C Darwin
+D Pasteur
+Answer: B
+A gene is a segment of:
+A Protein
+B DNA
+C Lipid
+D Carbohydrate
+Answer: B
+Which of the following is a tool of genetic engineering?
+A Microscope
+B Restriction enzyme
+C Telescope
+D Centrifuge
+Answer: B
+Restriction enzymes function as:
+A Joiners
+B Cutters of DNA
+C Replicators
+D None
+Answer: B
+DNA ligase is used to:
+A Cut DNA
+B Join DNA fragments
+C Replicate DNA
+D None
+Answer: B
+Recombinant DNA technology involves:
+A Breaking DNA
+B Joining DNA from different organisms
+C Destroying DNA
+D None
+Answer: B
+The vector commonly used in gene transfer is:
+A Chromosome
+B Plasmid
+C Protein
+D Enzyme
+Answer: B
+Plasmids are found in:
+A Plants
+B Animals
+C Bacteria
+D Fungi
+Answer: C
+Which organism is widely used in biotechnology experiments?
+A Dog
+B Human
+C E. coli
+D Fish
+Answer: C
+PCR is used for:
+A Protein synthesis
+B DNA amplification
+C DNA destruction
+D None
+Answer: B
+PCR was developed by:
+A Watson
+B Kary Mullis
+C Mendel
+D Darwin
+Answer: B
+Biotechnology is widely used in:
+A Medicine
+B Agriculture
+C Industry
+D All
+Answer: D
+Insulin production using bacteria is an example of:
+A Traditional method
+B Recombinant DNA technology
+C Chemical synthesis
+D None
+Answer: B
+Cloning refers to:
+A Mutation
+B Production of identical copies
+C Gene transfer
+D None
+Answer: B
+Dolly the sheep is an example of:
+A Mutation
+B Cloning
+C Hybridization
+D None
+Answer: B
+Stem cells have the ability to:
+A Die quickly
+B Differentiate into various cell types
+C Remain inactive
+D None
+Answer: B
+Vaccines help in:
+A Cure diseases
+B Prevent diseases
+C Increase infection
+D None
+Answer: B
+Antibiotics are produced by:
+A Animals
+B Plants
+C Microorganisms
+D Minerals
+Answer: C
+Penicillin is obtained from:
+A Bacteria
+B Fungi
+C Virus
+D Algae
+Answer: B
+Fermentation involves:
+A Physical change
+B Microbial activity
+C Chemical reaction only
+D None
+Answer: B
+Yeast is used in fermentation for:
+A Oxygen production
+B Alcohol production
+C Protein synthesis
+D None
+Answer: B
+Biofertilizers are:
+A Chemical fertilizers
+B Microbial fertilizers
+C Mineral fertilizers
+D None
+Answer: B
+Biopesticides are:
+A Chemical agents
+B Biological agents
+C Synthetic materials
+D None
+Answer: B
+GM crops are developed by:
+A Natural selection
+B Genetic engineering
+C Hybridization only
+D None
+Answer: B
+Bt cotton provides resistance against:
+A Virus
+B Insects
+C Fungi
+D Bacteria
+Answer: B
+Golden rice is enriched with:
+A Protein
+B Vitamin A
+C Iron
+D Calcium
+Answer: B
+Gene therapy is used to:
+A Destroy genes
+B Treat genetic disorders
+C Produce crops
+D None
+Answer: B
+Human Genome Project aimed to:
+A Modify genes
+B Sequence human DNA
+C Destroy DNA
+D None
+Answer: B
+Genome refers to:
+A Single gene
+B Complete set of genes
+C Protein
+D Cell
+Answer: B
+Transgenic organisms contain:
+A Natural genes
+B Foreign genes
+C No genes
+D None
+Answer: B
+Biotechnology helps in environment through:
+A Pollution increase
+B Bioremediation
+C Mining
+D None
+Answer: B
+Bioremediation uses:
+A Chemicals
+B Microorganisms
+C Machines
+D None
+Answer: B
+CRISPR technology is used for:
+A DNA editing
+B DNA destruction
+C Protein formation
+D None
+Answer: A
+Bioinformatics combines:
+A Biology and Physics
+B Biology and Computers
+C Biology and Chemistry
+D None
+Answer: B
+Monoclonal antibodies are used in:
+A Diagnosis
+B Treatment
+C Research
+D All
+Answer: D
+Biotechnology helps increase:
+A Crop yield
+B Disease resistance
+C Food quality
+D All
+Answer: D
+Industrial biotechnology includes:
+A Drug production
+B Enzyme production
+C Food processing
+D All
+Answer: D
+Biotechnology reduces dependence on:
+A Biological products
+B Chemical products
+C Natural resources
+D None
+Answer: B
+Tissue culture is used for:
+A Plant propagation
+B Animal cloning
+C Mineral extraction
+D None
+Answer: A
+Microorganisms are preferred in biotechnology because:
+A Slow growth
+B Easy handling
+C Large size
+D None
+Answer: B
+Ethical concerns in biotechnology include:
+A Cloning
+B GM crops
+C Gene editing
+D All
+Answer: D
+Biotechnology contributes to:
+A Healthcare
+B Agriculture
+C Industry
+D All
+Answer: D
+Recombinant DNA is formed by:
+A Natural mutation
+B Artificial gene combination
+C Cell division
+D None
+Answer: B
+Biotechnology is considered interdisciplinary because it involves:
+A Biology only
+B Chemistry only
+C Multiple sciences
+D None
+Answer: C
+The future of biotechnology is:
+A Declining
+B Rapidly expanding
+C Static
+D None
+Answer: B
+
+Genetic engineering refers to:
+A Study of genes
+B Artificial manipulation of genetic material
+C Natural evolution
+D Cell division
+Answer: B
+The basic aim of genetic engineering is to:
+A Destroy genes
+B Modify DNA for desired traits
+C Study organisms
+D None
+Answer: B
+Recombinant DNA technology involves:
+A Natural mutation
+B Combining DNA from different sources
+C Cell division
+D None
+Answer: B
+Which enzyme is used to cut DNA at specific sites?
+A DNA ligase
+B Restriction endonuclease
+C Polymerase
+D Helicase
+Answer: B
+Restriction enzymes are also known as:
+A Molecular glue
+B Molecular scissors
+C Molecular motors
+D None
+Answer: B
+DNA ligase is used to:
+A Cut DNA
+B Join DNA fragments
+C Replicate DNA
+D None
+Answer: B
+Vectors are used in genetic engineering to:
+A Destroy DNA
+B Carry foreign DNA into host cells
+C Replicate proteins
+D None
+Answer: B
+The most commonly used vector is:
+A Chromosome
+B Plasmid
+C Protein
+D Lipid
+Answer: B
+Plasmids are:
+A Linear DNA
+B Circular DNA in bacteria
+C Proteins
+D Enzymes
+Answer: B
+Which organism is commonly used as a host in genetic engineering?
+A Dog
+B Human
+C Escherichia coli
+D Fish
+Answer: C
+Recombinant DNA is formed by:
+A Mutation
+B Joining DNA from different organisms
+C Cell division
+D None
+Answer: B
+Transformation in biotechnology means:
+A Cell division
+B Uptake of foreign DNA by a cell
+C DNA destruction
+D None
+Answer: B
+PCR technique is used for:
+A DNA destruction
+B DNA amplification
+C Protein synthesis
+D None
+Answer: B
+PCR requires:
+A RNA polymerase
+B DNA polymerase
+C Ligase
+D None
+Answer: B
+Which enzyme is used in PCR?
+A Taq polymerase
+B Ligase
+C Helicase
+D None
+Answer: A
+Gel electrophoresis is used for:
+A DNA synthesis
+B Separation of DNA fragments
+C DNA destruction
+D None
+Answer: B
+DNA fingerprinting is based on:
+A Protein structure
+B DNA sequence variation
+C RNA structure
+D None
+Answer: B
+DNA fingerprinting is used in:
+A Agriculture
+B Forensic science
+C Mining
+D None
+Answer: B
+Which scientist developed DNA fingerprinting?
+A Watson
+B Alec Jeffreys
+C Crick
+D Mendel
+Answer: B
+Transgenic organisms are those which:
+A Have no genes
+B Contain foreign genes
+C Have mutated genes
+D None
+Answer: B
+GM crops are developed by:
+A Natural breeding
+B Genetic engineering
+C Mutation only
+D None
+Answer: B
+Bt cotton is resistant to:
+A Virus
+B Insects
+C Bacteria
+D Fungi
+Answer: B
+The Bt gene is obtained from:
+A Virus
+B Bacterium Bacillus thuringiensis
+C Fungi
+D Algae
+Answer: B
+Golden rice is enriched with:
+A Iron
+B Vitamin A
+C Protein
+D Calcium
+Answer: B
+Gene therapy is used for:
+A Destroy genes
+B Treat genetic disorders
+C Produce crops
+D None
+Answer: B
+Which disease is treated using gene therapy?
+A Malaria
+B SCID
+C Typhoid
+D None
+Answer: B
+Cloning is the process of:
+A DNA mutation
+B Producing identical copies
+C Cell destruction
+D None
+Answer: B
+Dolly the sheep was cloned using:
+A Natural reproduction
+B Somatic cell nuclear transfer
+C Mutation
+D None
+Answer: B
+CRISPR-Cas9 is used for:
+A DNA destruction
+B Gene editing
+C Protein synthesis
+D None
+Answer: B
+CRISPR technology allows:
+A Random mutation
+B Precise gene editing
+C DNA destruction
+D None
+Answer: B
+Recombinant insulin is produced using:
+A Plants
+B Bacteria
+C Animals
+D None
+Answer: B
+Monoclonal antibodies are used in:
+A Diagnosis
+B Treatment
+C Research
+D All
+Answer: D
+Genetic engineering is used in agriculture to:
+A Reduce yield
+B Improve crop traits
+C Destroy crops
+D None
+Answer: B
+Genetic engineering helps in medicine by:
+A Drug production
+B Vaccine development
+C Gene therapy
+D All
+Answer: D
+Bioremediation uses genetically modified organisms to:
+A Increase pollution
+B Clean pollutants
+C Produce food
+D None
+Answer: B
+Biosensors are used for:
+A Detection of substances
+B Cooking
+C Driving
+D None
+Answer: A
+Which of the following is an application of genetic engineering?
+A Agriculture
+B Medicine
+C Industry
+D All
+Answer: D
+Ethical concerns of genetic engineering include:
+A Cloning
+B GM crops
+C Gene editing
+D All
+Answer: D
+Human Genome Project deals with:
+A Protein study
+B DNA sequencing
+C Cell division
+D None
+Answer: B
+Genome refers to:
+A Single gene
+B Complete genetic material
+C Protein
+D None
+Answer: B
+Gene expression means:
+A DNA destruction
+B Production of protein from gene
+C Mutation
+D None
+Answer: B
+Mutation is:
+A Normal process
+B Change in DNA sequence
+C Protein formation
+D None
+Answer: B
+Vector selection is important for:
+A DNA destruction
+B Efficient gene transfer
+C Protein synthesis
+D None
+Answer: B
+Genetic engineering requires:
+A Enzymes
+B Vectors
+C Host cells
+D All
+Answer: D
+Gene cloning results in:
+A DNA destruction
+B Multiple copies of a gene
+C Mutation
+D None
+Answer: B
+Transgenic animals are used for:
+A Research
+B Drug production
+C Study of diseases
+D All
+Answer: D
+Genetic engineering improves:
+A Crop yield
+B Disease resistance
+C Quality
+D All
+Answer: D
+Recombinant DNA technology is widely used in:
+A Medicine
+B Agriculture
+C Industry
+D All
+Answer: D
+Biotechnology laws regulate:
+A Safety
+B Ethics
+C Use of GMOs
+D All
+Answer: D
+Future of genetic engineering is:
+A Declining
+B Rapidly growing
+C Static
+D None
+Answer: B
+
+Biotechnology applications are mainly seen in:
+A Agriculture
+B Medicine
+C Industry
+D All
+Answer: D
+In agriculture, biotechnology is used for:
+A Crop improvement
+B Soil erosion
+C Mining
+D None
+Answer: A
+GM crops are developed to:
+A Reduce yield
+B Increase productivity
+C Destroy crops
+D None
+Answer: B
+Bt cotton is resistant to:
+A Virus
+B Insects
+C Bacteria
+D Fungi
+Answer: B
+Golden rice is enriched with:
+A Iron
+B Vitamin A
+C Calcium
+D Protein
+Answer: B
+Biofertilizers help in:
+A Increasing soil fertility
+B Reducing soil fertility
+C Soil erosion
+D None
+Answer: A
+Biopesticides are used to:
+A Increase pests
+B Control pests biologically
+C Destroy crops
+D None
+Answer: B
+Tissue culture is used for:
+A Plant propagation
+B Animal killing
+C Mining
+D None
+Answer: A
+Micropropagation is a technique of:
+A Animal growth
+B Plant multiplication
+C Mineral extraction
+D None
+Answer: B
+Biotechnology in medicine helps in:
+A Drug production
+B Vaccine development
+C Diagnosis
+D All
+Answer: D
+Recombinant insulin is produced using:
+A Animals
+B Plants
+C Bacteria
+D None
+Answer: C
+Vaccines are used for:
+A Cure
+B Prevention
+C Growth
+D None
+Answer: B
+Gene therapy is used to:
+A Destroy genes
+B Treat genetic disorders
+C Produce crops
+D None
+Answer: B
+Monoclonal antibodies are used in:
+A Diagnosis
+B Treatment
+C Research
+D All
+Answer: D
+Biotechnology helps in early disease detection by:
+A PCR
+B Imaging
+C Surgery
+D None
+Answer: A
+PCR is used for:
+A DNA amplification
+B Protein synthesis
+C Mutation
+D None
+Answer: A
+Biotechnology helps in production of:
+A Antibiotics
+B Hormones
+C Vaccines
+D All
+Answer: D
+Industrial biotechnology includes:
+A Enzyme production
+B Alcohol production
+C Food processing
+D All
+Answer: D
+Fermentation is used to produce:
+A Oxygen
+B Alcohol
+C Water
+D None
+Answer: B
+Yeast is used in:
+A Fermentation
+B Mining
+C Driving
+D None
+Answer: A
+Biotechnology helps in environment by:
+A Pollution increase
+B Bioremediation
+C Mining
+D None
+Answer: B
+Bioremediation involves:
+A Chemical cleaning
+B Microbial cleaning
+C Mechanical cleaning
+D None
+Answer: B
+Biogas is produced using:
+A Plants
+B Microorganisms
+C Animals
+D Rocks
+Answer: B
+Biogas mainly contains:
+A Oxygen
+B Methane
+C Nitrogen
+D Hydrogen
+Answer: B
+Biotechnology helps in waste management by:
+A Increasing waste
+B Treating waste
+C Burning waste
+D None
+Answer: B
+Bioleaching is used in:
+A Agriculture
+B Mining
+C Medicine
+D None
+Answer: B
+Biotechnology helps in energy production through:
+A Solar energy
+B Biofuels
+C Wind energy
+D None
+Answer: B
+Biofuels include:
+A Petrol
+B Diesel
+C Ethanol
+D None
+Answer: C
+Biodiesel is produced from:
+A Water
+B Plants oils
+C Minerals
+D None
+Answer: B
+Biotechnology helps in food industry by:
+A Preservation
+B Processing
+C Production
+D All
+Answer: D
+Probiotics are:
+A Harmful bacteria
+B Beneficial bacteria
+C Viruses
+D None
+Answer: B
+Biotechnology improves food quality by:
+A Reducing nutrients
+B Enhancing nutrients
+C Destroying food
+D None
+Answer: B
+Biotechnology is used in forensic science for:
+A Cooking
+B DNA fingerprinting
+C Mining
+D None
+Answer: B
+DNA fingerprinting helps in:
+A Crime detection
+B Identity verification
+C Paternity testing
+D All
+Answer: D
+Biotechnology helps in animal husbandry by:
+A Breeding improvement
+B Disease control
+C Productivity increase
+D All
+Answer: D
+Transgenic animals are used for:
+A Research
+B Drug production
+C Disease study
+D All
+Answer: D
+Biotechnology helps in fisheries by:
+A Improving fish production
+B Reducing fish
+C Destroying water
+D None
+Answer: A
+Biotechnology helps in forestry by:
+A Tree improvement
+B Conservation
+C Growth
+D All
+Answer: D
+Environmental biotechnology focuses on:
+A Pollution
+B Conservation
+C Waste management
+D All
+Answer: D
+Biosensors are used for:
+A Detection
+B Cooking
+C Mining
+D None
+Answer: A
+Biotechnology reduces dependence on:
+A Chemicals
+B Natural resources
+C Energy
+D None
+Answer: A
+Biotechnology helps in climate change mitigation by:
+A Pollution increase
+B Carbon reduction
+C Mining
+D None
+Answer: B
+Biotechnology in pharmaceuticals helps in:
+A Drug development
+B Vaccine production
+C Research
+D All
+Answer: D
+Biotechnology helps in diagnostics by:
+A Fast detection
+B Accurate results
+C Early detection
+D All
+Answer: D
+Biotechnology is useful in personalized medicine by:
+A Same treatment for all
+B Individual-based treatment
+C No treatment
+D None
+Answer: B
+Industrial enzymes are used in:
+A Detergents
+B Food
+C Textile
+D All
+Answer: D
+Biotechnology contributes to sustainable development by:
+A Increasing pollution
+B Efficient resource use
+C Destroying environment
+D None
+Answer: B
+Biotechnology helps in improving livestock by:
+A Genetic improvement
+B Disease resistance
+C Productivity
+D All
+Answer: D
+Applications of biotechnology are expanding in:
+A Medicine
+B Agriculture
+C Industry
+D All
+Answer: D
+Future applications of biotechnology include:
+A Advanced medicine
+B Improved crops
+C Environmental solutions
+D All
+Answer: D
+
+Biotechnology in healthcare is mainly used for:
+A Entertainment
+B Diagnosis and treatment
+C Mining
+D Transport
+Answer: B
+Vaccines are used for:
+A Cure diseases
+B Prevent diseases
+C Increase infection
+D None
+Answer: B
+Vaccination works by:
+A Killing pathogens directly
+B Stimulating immune system
+C Destroying DNA
+D None
+Answer: B
+Antibiotics are effective against:
+A Viruses
+B Bacteria
+C Fungi
+D All
+Answer: B
+Penicillin is obtained from:
+A Bacteria
+B Fungi
+C Virus
+D Algae
+Answer: B
+Insulin is used to treat:
+A Cancer
+B Diabetes
+C Malaria
+D Tuberculosis
+Answer: B
+Recombinant insulin is produced using:
+A Plants
+B Bacteria
+C Animals
+D None
+Answer: B
+PCR is used in healthcare for:
+A DNA amplification
+B Protein synthesis
+C Drug production
+D None
+Answer: A
+PCR helps in:
+A Disease detection
+B DNA analysis
+C Diagnosis
+D All
+Answer: D
+Gene therapy is used to:
+A Destroy genes
+B Treat genetic diseases
+C Produce vaccines
+D None
+Answer: B
+Which disease can be treated using gene therapy?
+A SCID
+B Malaria
+C Typhoid
+D None
+Answer: A
+Monoclonal antibodies are used for:
+A Diagnosis
+B Treatment
+C Research
+D All
+Answer: D
+Biotechnology helps in early diagnosis through:
+A Imaging
+B PCR
+C Surgery
+D None
+Answer: B
+ELISA test is used for:
+A DNA cutting
+B Detecting antigens/antibodies
+C Protein synthesis
+D None
+Answer: B
+HIV detection is commonly done by:
+A PCR
+B ELISA
+C Both
+D None
+Answer: C
+Biotechnology helps in production of:
+A Vaccines
+B Antibiotics
+C Hormones
+D All
+Answer: D
+Stem cells are useful in:
+A Regeneration
+B Repair
+C Treatment
+D All
+Answer: D
+Stem cell therapy is used for:
+A Tissue repair
+B Organ growth
+C Disease treatment
+D All
+Answer: D
+Organ transplantation requires:
+A Matching tissues
+B Surgery
+C Immunosuppression
+D All
+Answer: D
+Biotechnology helps in cancer treatment by:
+A Chemotherapy
+B Immunotherapy
+C Targeted therapy
+D All
+Answer: D
+Immunotherapy works by:
+A Killing cells directly
+B Boosting immune system
+C Destroying DNA
+D None
+Answer: B
+DNA fingerprinting is used in:
+A Diagnosis
+B Identification
+C Forensics
+D All
+Answer: D
+Genetic disorders are caused by:
+A Protein changes
+B DNA mutations
+C Enzyme changes
+D None
+Answer: B
+Biotechnology helps in treatment of genetic disorders by:
+A Surgery
+B Gene therapy
+C Medicine
+D None
+Answer: B
+Vaccines can be:
+A Live
+B Attenuated
+C Inactivated
+D All
+Answer: D
+mRNA vaccines are used for:
+A Bacterial infection
+B Viral infection
+C Fungal infection
+D None
+Answer: B
+COVID-19 vaccines are examples of:
+A Traditional vaccines
+B mRNA vaccines
+C DNA vaccines
+D None
+Answer: B
+Biotechnology helps in drug discovery by:
+A Screening
+B Testing
+C Development
+D All
+Answer: D
+Clinical trials are used for:
+A Testing drugs
+B Marketing
+C Production
+D None
+Answer: A
+Biosensors are used for:
+A Detection
+B Monitoring
+C Diagnosis
+D All
+Answer: D
+Glucose biosensor is used for:
+A Cancer
+B Diabetes monitoring
+C Heart disease
+D None
+Answer: B
+Biotechnology helps in personalized medicine by:
+A Same treatment
+B Individual treatment
+C No treatment
+D None
+Answer: B
+Pharmacogenomics deals with:
+A Drug response based on genes
+B Protein synthesis
+C DNA cutting
+D None
+Answer: A
+Biotechnology helps in vaccine production by:
+A Genetic engineering
+B Fermentation
+C Both
+D None
+Answer: C
+Antibiotic resistance occurs due to:
+A Overuse of antibiotics
+B Mutation
+C Both
+D None
+Answer: C
+Biotechnology helps control antibiotic resistance by:
+A New drugs
+B Research
+C Monitoring
+D All
+Answer: D
+Blood testing is used for:
+A Diagnosis
+B Monitoring
+C Detection
+D All
+Answer: D
+Genetic screening is used for:
+A Disease detection
+B Risk assessment
+C Prevention
+D All
+Answer: D
+Biotechnology helps in prenatal diagnosis by:
+A Testing fetus
+B Imaging
+C Screening
+D All
+Answer: D
+CRISPR is used in medicine for:
+A Gene editing
+B DNA cutting
+C Therapy
+D All
+Answer: D
+Biotechnology helps in production of vaccines like:
+A Hepatitis B
+B COVID-19
+C Both
+D None
+Answer: C
+Recombinant vaccines are produced using:
+A Natural methods
+B Genetic engineering
+C Chemical methods
+D None
+Answer: B
+Biotechnology improves healthcare by:
+A Faster diagnosis
+B Better treatment
+C Prevention
+D All
+Answer: D
+Medical biotechnology focuses on:
+A Health
+B Disease
+C Treatment
+D All
+Answer: D
+Biotechnology reduces disease spread by:
+A Vaccination
+B Awareness
+C Treatment
+D All
+Answer: D
+Diagnostics include:
+A Tests
+B Scans
+C Detection
+D All
+Answer: D
+Biotechnology helps in epidemic control by:
+A Monitoring
+B Testing
+C Vaccination
+D All
+Answer: D
+Healthcare biotechnology is rapidly:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Biotechnology helps in global health by:
+A Research
+B Treatment
+C Prevention
+D All
+Answer: D
+Future of biotechnology in medicine is:
+A Limited
+B Expanding rapidly
+C Declining
+D None
+Answer: B
+
+Biotechnology in agriculture mainly aims to:
+A Reduce crop yield
+B Improve crop productivity
+C Destroy crops
+D None
+Answer: B
+Genetic modification in crops is done to:
+A Reduce quality
+B Improve traits
+C Destroy genes
+D None
+Answer: B
+GM crops are developed using:
+A Traditional breeding
+B Genetic engineering
+C Natural selection
+D None
+Answer: B
+Bt cotton is resistant to:
+A Viruses
+B Insects
+C Fungi
+D Bacteria
+Answer: B
+The Bt gene is derived from:
+A Virus
+B Bacterium Bacillus thuringiensis
+C Fungi
+D Algae
+Answer: B
+Golden rice is enriched with:
+A Iron
+B Vitamin A
+C Protein
+D Calcium
+Answer: B
+Biofortification refers to:
+A Reducing nutrients
+B Increasing nutrient content
+C Destroying crops
+D None
+Answer: B
+Tissue culture is used for:
+A Plant propagation
+B Animal cloning
+C Mineral extraction
+D None
+Answer: A
+Micropropagation is:
+A Animal growth
+B Rapid plant multiplication
+C Mineral process
+D None
+Answer: B
+Biofertilizers contain:
+A Chemicals
+B Microorganisms
+C Minerals
+D None
+Answer: B
+Biofertilizers help in:
+A Soil fertility improvement
+B Soil erosion
+C Pollution
+D None
+Answer: A
+Rhizobium is used as:
+A Pesticide
+B Biofertilizer
+C Fungicide
+D None
+Answer: B
+Biopesticides are:
+A Chemical pesticides
+B Biological pest control agents
+C Synthetic chemicals
+D None
+Answer: B
+Neem is used as:
+A Fertilizer
+B Biopesticide
+C Fuel
+D None
+Answer: B
+Biotechnology helps in pest resistance by:
+A Chemicals
+B Genetic modification
+C Irrigation
+D None
+Answer: B
+Herbicide-resistant crops are developed to:
+A Increase weeds
+B Control weeds
+C Destroy crops
+D None
+Answer: B
+Drought-resistant crops are developed to:
+A Increase water use
+B Survive low water
+C Destroy crops
+D None
+Answer: B
+Biotechnology improves crop yield by:
+A Irrigation
+B Genetic engineering
+C Fertilizers
+D None
+Answer: B
+Hybrid crops are developed by:
+A Genetic engineering
+B Cross breeding
+C Mutation
+D None
+Answer: B
+Biotechnology helps in disease resistance by:
+A Chemicals
+B Genetic modification
+C Irrigation
+D None
+Answer: B
+Food biotechnology includes:
+A Food processing
+B Preservation
+C Production
+D All
+Answer: D
+Fermentation is used in food production for:
+A Oxygen
+B Alcohol
+C Water
+D None
+Answer: B
+Curd is produced using:
+A Virus
+B Bacteria
+C Fungi
+D Algae
+Answer: B
+Probiotics are:
+A Harmful bacteria
+B Beneficial bacteria
+C Viruses
+D None
+Answer: B
+Food preservation using biotechnology includes:
+A Fermentation
+B Freezing
+C Drying
+D None
+Answer: A
+Biotechnology helps in reducing:
+A Crop yield
+B Food spoilage
+C Nutrients
+D None
+Answer: B
+Genetically modified foods are:
+A Natural
+B Modified using biotechnology
+C Synthetic only
+D None
+Answer: B
+Biotechnology improves food quality by:
+A Reducing nutrients
+B Enhancing nutrients
+C Destroying food
+D None
+Answer: B
+Enzymes are used in food industry for:
+A Processing
+B Preservation
+C Production
+D All
+Answer: D
+Biotechnology helps in livestock improvement by:
+A Genetic engineering
+B Breeding
+C Disease control
+D All
+Answer: D
+Artificial insemination is used in:
+A Crops
+B Animals
+C Mining
+D None
+Answer: B
+Biotechnology helps in milk production by:
+A Improving breed
+B Increasing yield
+C Disease resistance
+D All
+Answer: D
+Fisheries benefit from biotechnology by:
+A Improved fish breeds
+B Disease control
+C Increased production
+D All
+Answer: D
+Aquaculture refers to:
+A Farming of fish
+B Mining
+C Agriculture
+D None
+Answer: A
+Biotechnology helps in food security by:
+A Increasing production
+B Improving quality
+C Reducing losses
+D All
+Answer: D
+Post-harvest losses are reduced by:
+A Storage
+B Processing
+C Preservation
+D All
+Answer: D
+Biotechnology helps in crop improvement by:
+A Genetic engineering
+B Hybridization
+C Mutation
+D All
+Answer: D
+Seed technology involves:
+A Seed selection
+B Treatment
+C Storage
+D All
+Answer: D
+Biotechnology helps in climate resilience by:
+A Drought resistance
+B Heat tolerance
+C Disease resistance
+D All
+Answer: D
+Organic farming uses:
+A Chemicals
+B Natural inputs
+C Synthetic fertilizers
+D None
+Answer: B
+Biofertilizers reduce:
+A Soil fertility
+B Chemical fertilizer use
+C Crop yield
+D None
+Answer: B
+Biotechnology helps in reducing environmental impact by:
+A Chemical reduction
+B Sustainable farming
+C Resource efficiency
+D All
+Answer: D
+Food biotechnology ensures:
+A Safety
+B Quality
+C Nutrition
+D All
+Answer: D
+Biotechnology helps in development of:
+A Functional foods
+B Nutraceuticals
+C Both
+D None
+Answer: C
+Nutraceuticals are:
+A Medicines
+B Food with health benefits
+C Chemicals
+D None
+Answer: B
+Biotechnology improves storage by:
+A Preservation
+B Packaging
+C Processing
+D All
+Answer: D
+Genetic engineering in agriculture is controversial due to:
+A Cost
+B Safety concerns
+C Ethics
+D All
+Answer: D
+Biotechnology helps in sustainable agriculture by:
+A Efficient resource use
+B Reduced chemicals
+C Improved yield
+D All
+Answer: D
+Agriculture biotechnology is rapidly:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Future of food biotechnology is:
+A Limited
+B Expanding
+C Declining
+D None
+Answer: B
+
+Environmental biotechnology mainly deals with:
+A Space study
+B Pollution control and waste management
+C Agriculture only
+D Transport
+Answer: B
+Bioremediation refers to:
+A Use of chemicals to clean pollution
+B Use of microorganisms to degrade pollutants
+C Burning waste
+D None
+Answer: B
+Which organisms are mainly used in bioremediation?
+A Plants
+B Animals
+C Microorganisms
+D Rocks
+Answer: C
+Biodegradation means:
+A Chemical breakdown
+B Biological breakdown of substances
+C Physical change
+D None
+Answer: B
+Sewage treatment uses:
+A Chemicals
+B Microorganisms
+C Machines only
+D None
+Answer: B
+Activated sludge process involves:
+A Chemicals
+B Microbial activity
+C Heat
+D None
+Answer: B
+Biogas is produced by:
+A Plants
+B Microorganisms
+C Animals
+D Minerals
+Answer: B
+Biogas mainly contains:
+A Oxygen
+B Methane
+C Nitrogen
+D Hydrogen
+Answer: B
+Biogas is an example of:
+A Fossil fuel
+B Renewable energy
+C Non-renewable energy
+D None
+Answer: B
+Industrial biotechnology deals with:
+A Space
+B Industrial production using biological systems
+C Agriculture only
+D None
+Answer: B
+Fermentation is widely used in:
+A Space
+B Industry
+C Mining
+D None
+Answer: B
+Ethanol is produced by fermentation using:
+A Bacteria
+B Yeast
+C Virus
+D Algae
+Answer: B
+Industrial enzymes are used in:
+A Detergents
+B Food
+C Textile
+D All
+Answer: D
+Bioleaching is used in:
+A Agriculture
+B Mining
+C Medicine
+D None
+Answer: B
+Bioleaching involves:
+A Chemical extraction
+B Microbial extraction of metals
+C Physical extraction
+D None
+Answer: B
+Biopesticides are:
+A Chemical agents
+B Biological agents
+C Metals
+D None
+Answer: B
+Biofertilizers help in:
+A Pollution
+B Soil fertility
+C Mining
+D None
+Answer: B
+Composting is:
+A Chemical process
+B Biological decomposition
+C Physical process
+D None
+Answer: B
+Landfills produce:
+A Oxygen
+B Methane
+C Nitrogen
+D Hydrogen
+Answer: B
+Wastewater treatment includes:
+A Physical process
+B Biological process
+C Chemical process
+D All
+Answer: D
+Primary treatment of sewage involves:
+A Biological process
+B Physical removal of solids
+C Chemical process
+D None
+Answer: B
+Secondary treatment involves:
+A Physical process
+B Biological process
+C Chemical process
+D None
+Answer: B
+Tertiary treatment involves:
+A Advanced purification
+B Physical removal
+C Biological digestion
+D None
+Answer: A
+Bioreactors are used for:
+A Cooking
+B Controlled biological reactions
+C Mining
+D None
+Answer: B
+Industrial fermentation requires:
+A Sterile conditions
+B Microorganisms
+C Nutrients
+D All
+Answer: D
+Bioplastics are:
+A Synthetic plastics
+B Biodegradable plastics
+C Metals
+D None
+Answer: B
+Bioplastics are eco-friendly because they:
+A Increase pollution
+B Decompose easily
+C Are toxic
+D None
+Answer: B
+Biofuels include:
+A Petrol
+B Diesel
+C Ethanol
+D None
+Answer: C
+Biodiesel is produced from:
+A Water
+B Vegetable oils
+C Minerals
+D None
+Answer: B
+Industrial biotechnology reduces:
+A Production
+B Pollution
+C Efficiency
+D None
+Answer: B
+Bioremediation is useful in cleaning:
+A Oil spills
+B Heavy metals
+C Waste
+D All
+Answer: D
+Phytoremediation uses:
+A Animals
+B Plants
+C Microbes
+D None
+Answer: B
+Green biotechnology refers to:
+A Industrial biotech
+B Agricultural biotech
+C Environmental biotech
+D None
+Answer: B
+White biotechnology refers to:
+A Medical biotech
+B Industrial biotech
+C Agricultural biotech
+D None
+Answer: B
+Environmental biotechnology helps in:
+A Pollution control
+B Waste treatment
+C Conservation
+D All
+Answer: D
+Industrial biotechnology improves:
+A Efficiency
+B Productivity
+C Sustainability
+D All
+Answer: D
+Biotechnological waste treatment is:
+A Expensive
+B Cost-effective
+C Inefficient
+D None
+Answer: B
+Anaerobic digestion occurs in:
+A Presence of oxygen
+B Absence of oxygen
+C High temperature
+D None
+Answer: B
+Aerobic digestion requires:
+A Oxygen
+B No oxygen
+C Heat
+D None
+Answer: A
+Methanogens are involved in:
+A Oxygen production
+B Methane production
+C Nitrogen fixation
+D None
+Answer: B
+Industrial biotechnology uses microorganisms for:
+A Production
+B Processing
+C Waste treatment
+D All
+Answer: D
+Biofilters are used for:
+A Air purification
+B Water purification
+C Soil cleaning
+D All
+Answer: D
+Bioremediation reduces:
+A Pollution
+B Toxicity
+C Environmental damage
+D All
+Answer: D
+Environmental biotechnology supports:
+A Sustainable development
+B Pollution increase
+C Resource depletion
+D None
+Answer: A
+Industrial biotechnology is important for:
+A Economy
+B Environment
+C Industry
+D All
+Answer: D
+Biotechnology helps in carbon management by:
+A Increasing CO₂
+B Reducing CO₂
+C No effect
+D None
+Answer: B
+Waste recycling using biotechnology is:
+A Inefficient
+B Efficient
+C Harmful
+D None
+Answer: B
+Biotechnology helps in energy efficiency by:
+A Reducing waste
+B Improving processes
+C Saving energy
+D All
+Answer: D
+Environmental biotechnology is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Future of industrial biotechnology is:
+A Limited
+B Expanding
+C Declining
+D None
+Answer: B
+
+Bioinformatics is the combination of:
+A Biology and Physics
+B Biology and Computers
+C Chemistry and Physics
+D None
+Answer: B
+Bioinformatics mainly deals with:
+A Data analysis of biological information
+B Chemical reactions
+C Physical laws
+D None
+Answer: A
+The primary focus of bioinformatics is:
+A Data storage
+B Data analysis
+C Data interpretation
+D All
+Answer: D
+Genome sequencing means:
+A Destroying DNA
+B Determining DNA sequence
+C Modifying DNA
+D None
+Answer: B
+Human Genome Project aimed to:
+A Modify genes
+B Sequence human genome
+C Destroy DNA
+D None
+Answer: B
+Genome refers to:
+A Single gene
+B Complete genetic material
+C Protein
+D None
+Answer: B
+DNA databases store:
+A Proteins
+B Genetic sequences
+C Enzymes
+D None
+Answer: B
+BLAST tool is used for:
+A DNA destruction
+B Sequence comparison
+C Protein synthesis
+D None
+Answer: B
+GenBank is a:
+A Laboratory
+B Genetic database
+C Enzyme
+D None
+Answer: B
+Proteomics deals with:
+A DNA
+B Proteins
+C RNA
+D None
+Answer: B
+Genomics deals with:
+A Proteins
+B Whole genome
+C Cells
+D None
+Answer: B
+Structural bioinformatics studies:
+A DNA sequence
+B Protein structure
+C Cell structure
+D None
+Answer: B
+Functional bioinformatics studies:
+A DNA only
+B Function of genes and proteins
+C Cells only
+D None
+Answer: B
+Computational biology is related to:
+A Biology + Mathematics + Computers
+B Biology only
+C Physics only
+D None
+Answer: A
+Data mining in bioinformatics refers to:
+A Mining minerals
+B Extracting useful biological data
+C Destroying data
+D None
+Answer: B
+Sequence alignment is used to:
+A Destroy DNA
+B Compare DNA sequences
+C Modify DNA
+D None
+Answer: B
+Multiple sequence alignment compares:
+A One sequence
+B Two sequences
+C Many sequences
+D None
+Answer: C
+Phylogenetic analysis is used to study:
+A Chemical reactions
+B Evolutionary relationships
+C Physical laws
+D None
+Answer: B
+Bioinformatics helps in drug discovery by:
+A Simulation
+B Modeling
+C Screening
+D All
+Answer: D
+Molecular modeling helps in:
+A Structure prediction
+B Drug design
+C Simulation
+D All
+Answer: D
+Docking studies are used for:
+A DNA cutting
+B Drug-target interaction
+C Protein synthesis
+D None
+Answer: B
+Big data in biology refers to:
+A Small datasets
+B Large biological datasets
+C No data
+D None
+Answer: B
+Artificial Intelligence in bioinformatics is used for:
+A Prediction
+B Analysis
+C Automation
+D All
+Answer: D
+Machine learning helps in:
+A Pattern recognition
+B Prediction
+C Classification
+D All
+Answer: D
+Systems biology studies:
+A Individual genes
+B Interaction of biological systems
+C Cells only
+D None
+Answer: B
+Synthetic biology involves:
+A Natural processes
+B Designing new biological systems
+C Chemical reactions
+D None
+Answer: B
+CRISPR technology is used for:
+A DNA destruction
+B Gene editing
+C Protein synthesis
+D None
+Answer: B
+Precision medicine uses:
+A Same treatment
+B Individual genetic information
+C No treatment
+D None
+Answer: B
+Pharmacogenomics studies:
+A Drug response based on genes
+B Protein synthesis
+C DNA destruction
+D None
+Answer: A
+Biomarkers are used for:
+A Detection
+B Diagnosis
+C Monitoring
+D All
+Answer: D
+Cloud computing in bioinformatics helps in:
+A Data storage
+B Data sharing
+C Data analysis
+D All
+Answer: D
+Next-generation sequencing (NGS) is used for:
+A DNA destruction
+B Fast sequencing
+C Protein synthesis
+D None
+Answer: B
+Transcriptomics deals with:
+A DNA
+B RNA transcripts
+C Proteins
+D None
+Answer: B
+Metabolomics studies:
+A DNA
+B Proteins
+C Metabolites
+D None
+Answer: C
+Biological databases are useful for:
+A Storage
+B Retrieval
+C Analysis
+D All
+Answer: D
+Bioinformatics tools include:
+A BLAST
+B FASTA
+C ClustalW
+D All
+Answer: D
+FASTA is used for:
+A DNA cutting
+B Sequence alignment
+C Protein synthesis
+D None
+Answer: B
+ClustalW is used for:
+A Sequence alignment
+B DNA destruction
+C Protein synthesis
+D None
+Answer: A
+Bioinformatics helps in agriculture by:
+A Crop improvement
+B Gene identification
+C Disease resistance
+D All
+Answer: D
+Bioinformatics helps in medicine by:
+A Diagnosis
+B Drug discovery
+C Personalized treatment
+D All
+Answer: D
+Emerging trends in biotechnology include:
+A AI
+B Gene editing
+C Synthetic biology
+D All
+Answer: D
+Digital biology refers to:
+A Paper records
+B Digital data in biology
+C Chemical reactions
+D None
+Answer: B
+Computational tools improve:
+A Accuracy
+B Speed
+C Efficiency
+D All
+Answer: D
+Bioinformatics supports research by:
+A Data analysis
+B Modeling
+C Simulation
+D All
+Answer: D
+Ethical issues in bioinformatics include:
+A Data privacy
+B Data misuse
+C Security
+D All
+Answer: D
+Bioinformatics is essential for:
+A Modern biology
+B Research
+C Medicine
+D All
+Answer: D
+Biotechnology and bioinformatics together improve:
+A Healthcare
+B Agriculture
+C Industry
+D All
+Answer: D
+Future of bioinformatics is:
+A Declining
+B Rapidly growing
+C Static
+D None
+Answer: B
+Integration of AI and biology leads to:
+A Smart systems
+B Better predictions
+C Advanced research
+D All
+Answer: D
+Bioinformatics is important for:
+A Data-driven science
+B Precision medicine
+C Genomics
+D All
+Answer: D
+
+Bioethics deals with:
+A Chemical reactions
+B Ethical issues in biology and biotechnology
+C Physical laws
+D None
+Answer: B
+Biosafety refers to:
+A Chemical safety
+B Safe handling of biological materials
+C Physical safety
+D None
+Answer: B
+The main aim of biosafety is to:
+A Increase risk
+B Prevent hazards from biotechnology
+C Promote pollution
+D None
+Answer: B
+Ethical issues in biotechnology include:
+A Cloning
+B GMOs
+C Gene editing
+D All
+Answer: D
+Genetic engineering raises ethical concerns due to:
+A Cost
+B Safety and misuse
+C Size
+D None
+Answer: B
+GMOs may cause concerns related to:
+A Health
+B Environment
+C Biodiversity
+D All
+Answer: D
+Biosafety guidelines are designed to:
+A Increase risks
+B Ensure safe research and application
+C Stop research
+D None
+Answer: B
+Containment levels in labs are called:
+A Safety zones
+B Biosafety levels (BSL)
+C Risk zones
+D None
+Answer: B
+BSL-1 is used for:
+A Highly dangerous pathogens
+B Low-risk organisms
+C Dead organisms
+D None
+Answer: B
+BSL-4 is used for:
+A Harmless microbes
+B Highly dangerous pathogens
+C Plants only
+D None
+Answer: B
+Cloning raises ethical issues because it:
+A Increases diversity
+B Creates identical organisms
+C Reduces science
+D None
+Answer: B
+Human cloning is:
+A Fully accepted
+B Highly controversial
+C Widely practiced
+D None
+Answer: B
+Gene editing technologies like CRISPR raise concerns about:
+A Accuracy
+B Misuse
+C Ethical boundaries
+D All
+Answer: D
+Bioethics ensures:
+A Scientific misuse
+B Responsible use of biotechnology
+C No research
+D None
+Answer: B
+Informed consent means:
+A Forced agreement
+B Permission with full information
+C No permission
+D None
+Answer: B
+Clinical trials must follow:
+A Ethics
+B Safety
+C Regulations
+D All
+Answer: D
+Risk assessment in biotechnology is done to:
+A Increase risk
+B Identify potential hazards
+C Stop research
+D None
+Answer: B
+Biosafety cabinets are used for:
+A Cooking
+B Safe handling of biological samples
+C Storage
+D None
+Answer: B
+Personal protective equipment (PPE) includes:
+A Gloves
+B Masks
+C Lab coats
+D All
+Answer: D
+GM crops are regulated to ensure:
+A Profit
+B Safety
+C Growth
+D None
+Answer: B
+Labeling of GM foods is important for:
+A Marketing
+B Consumer awareness
+C Production
+D None
+Answer: B
+Intellectual property rights (IPR) protect:
+A Ideas and inventions
+B Products only
+C Machines only
+D None
+Answer: A
+Patents are granted for:
+A Discoveries
+B Inventions
+C Ideas only
+D None
+Answer: B
+Biotechnology patents protect:
+A Genes
+B Processes
+C Products
+D All
+Answer: D
+Biopiracy refers to:
+A Legal use of resources
+B Illegal use of biological resources
+C Scientific research
+D None
+Answer: B
+Biodiversity protection is important for:
+A Economy
+B Environment
+C Sustainability
+D All
+Answer: D
+Ethical issues in animal biotechnology include:
+A Animal rights
+B Welfare
+C Testing
+D All
+Answer: D
+Stem cell research raises ethical concerns due to:
+A Cost
+B Use of embryos
+C Size
+D None
+Answer: B
+Germline gene therapy affects:
+A Individual only
+B Future generations
+C Cells only
+D None
+Answer: B
+Somatic gene therapy affects:
+A Future generations
+B Individual only
+C Population
+D None
+Answer: B
+Biosafety committees are formed to:
+A Promote risk
+B Regulate biotechnology work
+C Stop research
+D None
+Answer: B
+Environmental risk of GMOs includes:
+A Gene transfer
+B Biodiversity loss
+C Ecosystem imbalance
+D All
+Answer: D
+Biosecurity deals with:
+A Accidental risks
+B Intentional misuse of biology
+C Natural disasters
+D None
+Answer: B
+Dual-use research refers to:
+A Single use
+B Beneficial and harmful use
+C No use
+D None
+Answer: B
+Regulations in biotechnology aim to:
+A Stop research
+B Ensure safety and ethics
+C Promote risk
+D None
+Answer: B
+International agreements regulate:
+A Trade
+B Biosafety
+C Environment
+D All
+Answer: D
+Cartagena Protocol deals with:
+A Trade
+B Biosafety of GMOs
+C Climate change
+D None
+Answer: B
+Ethical principles include:
+A Beneficence
+B Non-maleficence
+C Justice
+D All
+Answer: D
+Privacy concerns arise in:
+A Genetic data
+B Personal data
+C Medical records
+D All
+Answer: D
+Genetic testing requires:
+A Consent
+B Privacy
+C Ethics
+D All
+Answer: D
+Public awareness is important for:
+A Acceptance of biotechnology
+B Safety
+C Understanding
+D All
+Answer: D
+Biotechnology misuse can lead to:
+A Benefits
+B Harm
+C Progress
+D None
+Answer: B
+Ethical review boards ensure:
+A Profit
+B Ethical research
+C Fast research
+D None
+Answer: B
+Biosafety training is important for:
+A Workers
+B Scientists
+C Lab staff
+D All
+Answer: D
+Regulations vary by:
+A Country
+B Region
+C Law
+D All
+Answer: D
+Ethical biotechnology promotes:
+A Harm
+B Responsibility
+C Misuse
+D None
+Answer: B
+Sustainable biotechnology ensures:
+A Long-term benefits
+B Environmental protection
+C Ethical use
+D All
+Answer: D
+Transparency in biotechnology builds:
+A Trust
+B Awareness
+C Acceptance
+D All
+Answer: D
+Future challenges in bioethics include:
+A Gene editing
+B AI in biology
+C Data privacy
+D All
+Answer: D
+Ethics and safety in biotechnology are:
+A Optional
+B Essential
+C Unimportant
+D None
+Answer: B
+
+Nanotechnology deals with materials at the scale of:
+A Meter
+B Millimeter
+C Nanometer
+D Kilometer
+Answer: C
+One nanometer is equal to:
+A 10⁻³ m
+B 10⁻⁶ m
+C 10⁻⁹ m
+D 10⁻¹² m
+Answer: C
+Nanobiotechnology is the integration of:
+A Physics and Chemistry
+B Nanotechnology and Biology
+C Math and Science
+D None
+Answer: B
+Nanoparticles are particles with size:
+A >1000 nm
+B 1–100 nm
+C 1–1000 mm
+D None
+Answer: B
+Which property is unique at nanoscale?
+A Increased mass
+B High surface area
+C Low reactivity
+D None
+Answer: B
+Nanotechnology is used in:
+A Medicine
+B Electronics
+C Environment
+D All
+Answer: D
+Nanomedicine involves:
+A Traditional medicine
+B Use of nanotechnology in healthcare
+C Chemical therapy
+D None
+Answer: B
+Nanoparticles are used in drug delivery because they:
+A Reduce cost
+B Target specific cells
+C Increase weight
+D None
+Answer: B
+Targeted drug delivery reduces:
+A Effectiveness
+B Side effects
+C Cost
+D None
+Answer: B
+Liposomes are used as:
+A Drugs
+B Drug carriers
+C Enzymes
+D None
+Answer: B
+Nanotechnology helps in cancer treatment by:
+A Increasing tumor
+B Targeted therapy
+C Destroying cells randomly
+D None
+Answer: B
+Quantum dots are used in:
+A Cooking
+B Imaging
+C Mining
+D None
+Answer: B
+Nanobiosensors are used for:
+A Detection
+B Monitoring
+C Diagnosis
+D All
+Answer: D
+Gold nanoparticles are used in:
+A Medicine
+B Diagnostics
+C Therapy
+D All
+Answer: D
+Nanotechnology improves diagnostics by:
+A Faster detection
+B High sensitivity
+C Accuracy
+D All
+Answer: D
+Carbon nanotubes are known for:
+A Weak strength
+B High strength
+C Low conductivity
+D None
+Answer: B
+Graphene is:
+A 3D material
+B 2D material
+C Liquid
+D None
+Answer: B
+Nanotechnology helps in water purification by:
+A Increasing pollution
+B Removing contaminants
+C Adding chemicals
+D None
+Answer: B
+Nanofilters are used for:
+A Air cleaning
+B Water purification
+C Both
+D None
+Answer: C
+Nanotechnology helps in agriculture by:
+A Nano-fertilizers
+B Nano-pesticides
+C Controlled release
+D All
+Answer: D
+Nano-fertilizers improve:
+A Soil erosion
+B Nutrient efficiency
+C Pollution
+D None
+Answer: B
+Nano-pesticides help in:
+A Pest control
+B Reduced chemical use
+C Targeted action
+D All
+Answer: D
+Nanotechnology reduces environmental impact by:
+A Increasing waste
+B Efficient resource use
+C Pollution
+D None
+Answer: B
+Nanomaterials are used in:
+A Energy
+B Medicine
+C Industry
+D All
+Answer: D
+Nanotechnology helps in energy sector by:
+A Solar cells
+B Batteries
+C Fuel cells
+D All
+Answer: D
+Biosensors at nanoscale improve:
+A Accuracy
+B Sensitivity
+C Speed
+D All
+Answer: D
+Nanotechnology in food industry helps in:
+A Packaging
+B Preservation
+C Safety
+D All
+Answer: D
+Smart packaging uses:
+A Chemicals
+B Nanotechnology
+C Heat
+D None
+Answer: B
+Nanotechnology helps in drug formulation by:
+A Improving solubility
+B Targeting
+C Stability
+D All
+Answer: D
+Nanocarriers include:
+A Liposomes
+B Dendrimers
+C Nanoparticles
+D All
+Answer: D
+Dendrimers are:
+A Large particles
+B Branched nanostructures
+C Liquids
+D None
+Answer: B
+Nanotechnology helps in gene delivery by:
+A Viral vectors
+B Non-viral nanocarriers
+C Both
+D None
+Answer: C
+Nanotechnology improves imaging techniques like:
+A MRI
+B CT scan
+C Fluorescence imaging
+D All
+Answer: D
+Nanomedicine is useful in:
+A Cancer
+B Infection
+C Diagnosis
+D All
+Answer: D
+Nanotoxicology studies:
+A Benefits
+B Toxic effects of nanomaterials
+C Production
+D None
+Answer: B
+Nanotechnology risks include:
+A Toxicity
+B Environmental impact
+C Health risks
+D All
+Answer: D
+Regulation of nanotechnology is important for:
+A Safety
+B Ethics
+C Environment
+D All
+Answer: D
+Nanotechnology supports personalized medicine by:
+A Same treatment
+B Targeted treatment
+C No treatment
+D None
+Answer: B
+Nanotechnology in biotechnology is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Nanochips are used in:
+A Electronics
+B Medicine
+C Diagnostics
+D All
+Answer: D
+Nanotechnology improves biosensors by:
+A Sensitivity
+B Accuracy
+C Speed
+D All
+Answer: D
+Nanotechnology helps in environmental monitoring by:
+A Sensors
+B Detection
+C Analysis
+D All
+Answer: D
+Nanotechnology enables:
+A Miniaturization
+B Efficiency
+C Precision
+D All
+Answer: D
+Nanotechnology in textiles provides:
+A Strength
+B Water resistance
+C Antimicrobial properties
+D All
+Answer: D
+Nanomaterials have high reactivity due to:
+A Large size
+B High surface area
+C Low energy
+D None
+Answer: B
+Nanotechnology helps in waste treatment by:
+A Degradation
+B Filtration
+C Removal
+D All
+Answer: D
+Nanotechnology supports innovation in:
+A Healthcare
+B Agriculture
+C Industry
+D All
+Answer: D
+Future of nanobiotechnology is:
+A Limited
+B Expanding
+C Declining
+D None
+Answer: B
+Integration of nanotech and biotech leads to:
+A Advanced solutions
+B Efficient systems
+C Innovation
+D All
+Answer: D
+Nanotechnology is important for:
+A Modern science
+B Technology
+C Innovation
+D All
+Answer: D
+
+Space technology mainly deals with:
+A Ocean study
+B Use of space for practical purposes
+C Agriculture
+D None
+Answer: B
+A satellite is:
+A Natural object only
+B Object orbiting Earth
+C Vehicle
+D None
+Answer: B
+Artificial satellites are launched by:
+A Rockets
+B Aircraft
+C Ships
+D None
+Answer: A
+Which organization is responsible for space research in India?
+A DRDO
+B ISRO
+C NASA
+D ESA
+Answer: B
+ISRO was established in:
+A 1962
+B 1969
+C 1975
+D 1980
+Answer: B
+The first Indian satellite was:
+A INSAT
+B Aryabhata
+C PSLV
+D GSLV
+Answer: B
+Aryabhata was launched in:
+A 1969
+B 1975
+C 1980
+D 1990
+Answer: B
+INSAT is used for:
+A Defence
+B Communication
+C Navigation
+D None
+Answer: B
+Remote sensing satellites are used for:
+A Communication
+B Weather monitoring
+C Resource mapping
+D Both B and C
+Answer: D
+PSLV stands for:
+A Polar Satellite Launch Vehicle
+B Power Satellite Launch Vehicle
+C Public Satellite Launch Vehicle
+D None
+Answer: A
+GSLV stands for:
+A Geo Satellite Launch Vehicle
+B Geosynchronous Satellite Launch Vehicle
+C Global Satellite Launch Vehicle
+D None
+Answer: B
+Geostationary satellites orbit at:
+A Low altitude
+B High altitude (~36,000 km)
+C Medium altitude
+D None
+Answer: B
+LEO stands for:
+A Low Earth Orbit
+B Long Earth Orbit
+C Light Earth Orbit
+D None
+Answer: A
+MEO stands for:
+A Medium Earth Orbit
+B Maximum Earth Orbit
+C Minimum Earth Orbit
+D None
+Answer: A
+Communication satellites are mainly placed in:
+A LEO
+B MEO
+C GEO
+D None
+Answer: C
+Remote sensing involves:
+A Direct contact
+B Data collection from distance
+C Chemical analysis
+D None
+Answer: B
+Weather satellites help in:
+A Forecasting
+B Monitoring storms
+C Climate study
+D All
+Answer: D
+Navigation satellites provide:
+A Communication
+B Location information
+C Weather
+D None
+Answer: B
+ISRO developed NAVIC for:
+A Communication
+B Navigation
+C Defence
+D None
+Answer: B
+Space technology helps in:
+A Communication
+B Weather
+C Navigation
+D All
+Answer: D
+Satellite communication uses:
+A Sound waves
+B Radio waves
+C Water waves
+D None
+Answer: B
+Transponder in satellite is used for:
+A Storage
+B Signal transmission
+C Fuel
+D None
+Answer: B
+Remote sensing is useful in:
+A Agriculture
+B Disaster management
+C Mapping
+D All
+Answer: D
+GIS stands for:
+A Global Information System
+B Geographic Information System
+C General Information System
+D None
+Answer: B
+Space technology helps in disaster management by:
+A Prediction
+B Monitoring
+C Rescue planning
+D All
+Answer: D
+Satellites are powered by:
+A Coal
+B Solar energy
+C Petrol
+D None
+Answer: B
+Space missions require:
+A Rockets
+B Satellites
+C Ground stations
+D All
+Answer: D
+Chandrayaan mission is related to:
+A Mars
+B Moon
+C Sun
+D None
+Answer: B
+Mangalyaan mission is related to:
+A Moon
+B Mars
+C Sun
+D None
+Answer: B
+NASA belongs to:
+A India
+B USA
+C Russia
+D Europe
+Answer: B
+ESA belongs to:
+A USA
+B Europe
+C India
+D China
+Answer: B
+Satellite orbits are maintained by:
+A Gravity
+B Energy
+C Pressure
+D None
+Answer: A
+Escape velocity is required to:
+A Enter Earth
+B Leave Earth
+C Stay in orbit
+D None
+Answer: B
+Space technology helps in education by:
+A Satellite TV
+B Internet
+C Distance learning
+D All
+Answer: D
+INSAT system supports:
+A Communication
+B Broadcasting
+C Weather
+D All
+Answer: D
+GPS is used for:
+A Communication
+B Navigation
+C Weather
+D None
+Answer: B
+Space debris refers to:
+A Natural objects
+B Waste in space
+C Satellites
+D None
+Answer: B
+Space technology is important for defence by:
+A Surveillance
+B Communication
+C Navigation
+D All
+Answer: D
+Reusable rockets help in:
+A Increasing cost
+B Reducing cost
+C Pollution
+D None
+Answer: B
+Space exploration helps in:
+A Scientific knowledge
+B Technology development
+C Innovation
+D All
+Answer: D
+Satellite imaging helps in:
+A Mapping
+B Agriculture
+C Urban planning
+D All
+Answer: D
+Space technology contributes to:
+A Economy
+B Science
+C Security
+D All
+Answer: D
+Future of space technology is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+Private companies in space include:
+A SpaceX
+B Blue Origin
+C Both
+D None
+Answer: C
+SpaceX is founded by:
+A Bill Gates
+B Elon Musk
+C Jeff Bezos
+D None
+Answer: B
+Blue Origin is founded by:
+A Elon Musk
+B Jeff Bezos
+C Mark Zuckerberg
+D None
+Answer: B
+Satellites help in global communication by:
+A Internet
+B TV
+C Phone
+D All
+Answer: D
+Space research improves:
+A Technology
+B Knowledge
+C Innovation
+D All
+Answer: D
+Satellite launch sites are located near:
+A Poles
+B Equator
+C Mountains
+D None
+Answer: B
+Space technology is essential for:
+A Modern communication
+B Navigation
+C Weather forecasting
+D All
+Answer: D
+
+Defense technology mainly deals with:
+A Agriculture
+B Military applications of science
+C Space study only
+D None
+Answer: B
+Missiles are:
+A Aircraft
+B Guided weapons
+C Vehicles
+D None
+Answer: B
+A missile is guided by:
+A Manual control only
+B Guidance system
+C Fuel
+D None
+Answer: B
+Which organization develops defense technology in India?
+A ISRO
+B DRDO
+C NASA
+D ESA
+Answer: B
+DRDO was established in:
+A 1947
+B 1958
+C 1969
+D 1975
+Answer: B
+Missiles are classified based on:
+A Range
+B Speed
+C Launch mode
+D All
+Answer: D
+Ballistic missiles follow:
+A Straight path
+B Parabolic trajectory
+C Circular path
+D None
+Answer: B
+Cruise missiles fly at:
+A High altitude
+B Low altitude
+C Medium altitude
+D None
+Answer: B
+Which missile is a ballistic missile of India?
+A BrahMos
+B Agni
+C Akash
+D Nag
+Answer: B
+Agni missiles are:
+A Short-range
+B Medium to long-range ballistic missiles
+C Cruise missiles
+D None
+Answer: B
+Prithvi missile is:
+A Surface-to-air
+B Surface-to-surface
+C Air-to-air
+D None
+Answer: B
+BrahMos Missile is:
+A Ballistic missile
+B Cruise missile
+C Nuclear bomb
+D None
+Answer: B
+BrahMos is developed jointly by:
+A India & USA
+B India & Russia
+C India & China
+D None
+Answer: B
+Akash missile is used for:
+A Surface-to-air
+B Air-to-air
+C Surface-to-surface
+D None
+Answer: A
+Nag missile is used for:
+A Air defence
+B Anti-tank
+C Naval
+D None
+Answer: B
+ICBM stands for:
+A Intercontinental Ballistic Missile
+B Internal Combat Missile
+C Integrated Control Missile
+D None
+Answer: A
+ICBMs have range:
+A <100 km
+B 100–1000 km
+C >5500 km
+D None
+Answer: C
+Guidance systems in missiles include:
+A GPS
+B Radar
+C Infrared
+D All
+Answer: D
+Missile propulsion uses:
+A Fuel
+B Oxidizer
+C Engine
+D All
+Answer: D
+Solid fuel missiles are:
+A Complex
+B Simple and quick launch
+C Slow
+D None
+Answer: B
+Liquid fuel missiles are:
+A Easy storage
+B Complex handling
+C Fast launch
+D None
+Answer: B
+Hypersonic missiles travel at speed:
+A Mach 1
+B Mach 2
+C >Mach 5
+D None
+Answer: C
+Stealth technology is used to:
+A Increase visibility
+B Reduce detection
+C Increase speed
+D None
+Answer: B
+Radar is used for:
+A Detection
+B Tracking
+C Surveillance
+D All
+Answer: D
+Sonar is used in:
+A Air
+B Water
+C Space
+D None
+Answer: B
+Fighter aircraft are used for:
+A Transport
+B Combat
+C Mining
+D None
+Answer: B
+UAV stands for:
+A Unmanned Aerial Vehicle
+B Universal Air Vehicle
+C United Air Vehicle
+D None
+Answer: A
+Drones are:
+A Manned aircraft
+B Unmanned aircraft
+C Ships
+D None
+Answer: B
+Drones are used for:
+A Surveillance
+B Delivery
+C Combat
+D All
+Answer: D
+Nuclear weapons are:
+A Conventional
+B Mass destruction weapons
+C Chemical
+D None
+Answer: B
+India follows:
+A First use policy
+B No First Use policy
+C Aggressive policy
+D None
+Answer: B
+Cyber warfare involves:
+A Physical attack
+B Digital attack
+C Chemical attack
+D None
+Answer: B
+Electronic warfare involves:
+A Physical combat
+B Use of electromagnetic spectrum
+C Chemical reaction
+D None
+Answer: B
+Satellites are used in defense for:
+A Surveillance
+B Communication
+C Navigation
+D All
+Answer: D
+Missile defense systems are used to:
+A Launch missiles
+B Intercept missiles
+C Store missiles
+D None
+Answer: B
+Ballistic Missile Defense (BMD) system is used for:
+A Attack
+B Defense
+C Storage
+D None
+Answer: B
+Tanks are used in:
+A Air warfare
+B Land warfare
+C Sea warfare
+D None
+Answer: B
+Submarines are used in:
+A Air
+B Land
+C Sea
+D None
+Answer: C
+Nuclear submarines are powered by:
+A Diesel
+B Nuclear energy
+C Petrol
+D None
+Answer: B
+Aircraft carriers are used for:
+A Transport
+B Naval warfare
+C Mining
+D None
+Answer: B
+Defense technology improves:
+A Security
+B Strength
+C Capability
+D All
+Answer: D
+Artificial Intelligence in defense is used for:
+A Automation
+B Decision making
+C Surveillance
+D All
+Answer: D
+Robotics in defense is used for:
+A Bomb disposal
+B Surveillance
+C Combat
+D All
+Answer: D
+Laser weapons are based on:
+A Sound
+B Light
+C Heat
+D None
+Answer: B
+Defense satellites help in:
+A Monitoring
+B Communication
+C Navigation
+D All
+Answer: D
+Space-based defense systems include:
+A Satellites
+B Missiles
+C Both
+D None
+Answer: C
+Modern warfare includes:
+A Cyber
+B Space
+C Electronic
+D All
+Answer: D
+Defense research aims to:
+A Increase war
+B Strengthen security
+C Destroy peace
+D None
+Answer: B
+India is developing hypersonic technology for:
+A Transport
+B Defense
+C Agriculture
+D None
+Answer: B
+Future of defense technology is:
+A Declining
+B Advanced and evolving
+C Static
+D None
+Answer: B
+
+ICT stands for:
+A Information and Computer Technology
+B Information and Communication Technology
+C Integrated Communication Technology
+D None
+Answer: B
+ICT mainly deals with:
+A Agriculture
+B Communication and information processing
+C Mining
+D None
+Answer: B
+The basic component of ICT is:
+A Data
+B Information
+C Communication
+D All
+Answer: D
+Data refers to:
+A Processed information
+B Raw facts
+C Knowledge
+D None
+Answer: B
+Information is:
+A Raw data
+B Processed data
+C Unused data
+D None
+Answer: B
+Communication means:
+A Storage
+B Transmission of information
+C Processing
+D None
+Answer: B
+Computer is used for:
+A Input
+B Processing
+C Output
+D All
+Answer: D
+CPU stands for:
+A Central Processing Unit
+B Control Processing Unit
+C Computer Processing Unit
+D None
+Answer: A
+The brain of the computer is:
+A RAM
+B CPU
+C Hard disk
+D Monitor
+Answer: B
+Input devices include:
+A Keyboard
+B Mouse
+C Scanner
+D All
+Answer: D
+Output devices include:
+A Monitor
+B Printer
+C Speaker
+D All
+Answer: D
+Memory in computer is used for:
+A Storage
+B Processing
+C Input
+D None
+Answer: A
+RAM is:
+A Permanent memory
+B Temporary memory
+C External memory
+D None
+Answer: B
+ROM is:
+A Temporary memory
+B Permanent memory
+C Cache
+D None
+Answer: B
+Software refers to:
+A Physical parts
+B Programs
+C Hardware
+D None
+Answer: B
+Hardware refers to:
+A Programs
+B Physical components
+C Data
+D None
+Answer: B
+Operating system is:
+A Hardware
+B Software
+C Data
+D None
+Answer: B
+Examples of operating systems include:
+A Windows
+B Linux
+C Android
+D All
+Answer: D
+Internet is:
+A Single computer
+B Network of networks
+C Software
+D None
+Answer: B
+WWW stands for:
+A World Wide Web
+B World Web Wide
+C Web World Wide
+D None
+Answer: A
+Web browser is used for:
+A Programming
+B Accessing websites
+C Storage
+D None
+Answer: B
+Examples of browsers include:
+A Chrome
+B Firefox
+C Edge
+D All
+Answer: D
+Email is used for:
+A Communication
+B Storage
+C Processing
+D None
+Answer: A
+IP address is:
+A Device name
+B Unique identifier
+C Software
+D None
+Answer: B
+LAN stands for:
+A Local Area Network
+B Large Area Network
+C Long Area Network
+D None
+Answer: A
+WAN stands for:
+A Wide Area Network
+B Wireless Area Network
+C World Area Network
+D None
+Answer: A
+MAN stands for:
+A Metropolitan Area Network
+B Medium Area Network
+C Main Area Network
+D None
+Answer: A
+Network topology refers to:
+A Data
+B Layout of network
+C Software
+D None
+Answer: B
+Cloud computing provides:
+A Storage
+B Processing
+C Services over internet
+D All
+Answer: D
+ICT is used in education for:
+A E-learning
+B Online classes
+C Digital content
+D All
+Answer: D
+ICT is used in healthcare for:
+A Telemedicine
+B Data storage
+C Monitoring
+D All
+Answer: D
+ICT in banking includes:
+A Online banking
+B ATM
+C Mobile banking
+D All
+Answer: D
+E-commerce refers to:
+A Physical trade
+B Online trade
+C Offline trade
+D None
+Answer: B
+Digital payment methods include:
+A UPI
+B Cards
+C Net banking
+D All
+Answer: D
+Cybersecurity deals with:
+A Physical safety
+B Data protection
+C Agriculture
+D None
+Answer: B
+Malware is:
+A Useful software
+B Harmful software
+C Hardware
+D None
+Answer: B
+Virus is a type of:
+A Hardware
+B Malware
+C Data
+D None
+Answer: B
+Firewall is used for:
+A Data storage
+B Security
+C Processing
+D None
+Answer: B
+Encryption is used for:
+A Data protection
+B Data deletion
+C Storage
+D None
+Answer: A
+Artificial Intelligence is used in ICT for:
+A Automation
+B Decision making
+C Analysis
+D All
+Answer: D
+Big data refers to:
+A Small data
+B Large datasets
+C No data
+D None
+Answer: B
+Internet of Things (IoT) connects:
+A People
+B Devices
+C Networks
+D All
+Answer: B
+5G technology provides:
+A Slow speed
+B High-speed communication
+C No network
+D None
+Answer: B
+ICT helps in governance by:
+A E-governance
+B Transparency
+C Efficiency
+D All
+Answer: D
+Digital divide refers to:
+A Data gap
+B Technology access gap
+C Network gap
+D None
+Answer: B
+ICT improves communication by:
+A Speed
+B Efficiency
+C Accessibility
+D All
+Answer: D
+Social media is used for:
+A Communication
+B Information sharing
+C Networking
+D All
+Answer: D
+ICT plays role in economy by:
+A Growth
+B Innovation
+C Employment
+D All
+Answer: D
+Future of ICT is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+ICT is essential for:
+A Modern life
+B Communication
+C Development
+D All
+Answer: D
+
+Artificial Intelligence (AI) refers to:
+A Human intelligence
+B Machine intelligence
+C Animal intelligence
+D None
+Answer: B
+AI enables machines to:
+A Sleep
+B Learn and make decisions
+C Eat
+D None
+Answer: B
+Robotics deals with:
+A Human study
+B Design and use of robots
+C Chemical reactions
+D None
+Answer: B
+A robot is:
+A Living being
+B Machine performing tasks automatically
+C Animal
+D None
+Answer: B
+AI is a branch of:
+A Biology
+B Computer Science
+C Physics
+D None
+Answer: B
+Machine learning is:
+A Manual learning
+B Learning from data
+C Teaching humans
+D None
+Answer: B
+Deep learning is based on:
+A Simple logic
+B Neural networks
+C Hardware
+D None
+Answer: B
+Neural networks are inspired by:
+A Machines
+B Human brain
+C Animals
+D None
+Answer: B
+AI applications include:
+A Healthcare
+B Finance
+C Education
+D All
+Answer: D
+Robotics is used in:
+A Industry
+B Medicine
+C Defense
+D All
+Answer: D
+Industrial robots are used for:
+A Farming
+B Manufacturing
+C Teaching
+D None
+Answer: B
+Service robots are used for:
+A Assistance
+B Cleaning
+C Delivery
+D All
+Answer: D
+AI in healthcare helps in:
+A Diagnosis
+B Treatment
+C Monitoring
+D All
+Answer: D
+AI is used in self-driving cars for:
+A Cooking
+B Navigation
+C Storage
+D None
+Answer: B
+Natural Language Processing (NLP) deals with:
+A Images
+B Human language
+C Sound only
+D None
+Answer: B
+Speech recognition is used in:
+A Voice assistants
+B Robots
+C Both
+D None
+Answer: C
+Computer vision deals with:
+A Text
+B Images and videos
+C Sound
+D None
+Answer: B
+AI helps in automation by:
+A Reducing work
+B Increasing efficiency
+C Saving time
+D All
+Answer: D
+Robotics includes components like:
+A Sensors
+B Actuators
+C Controllers
+D All
+Answer: D
+Sensors are used to:
+A Act
+B Detect environment
+C Move
+D None
+Answer: B
+Actuators are used to:
+A Detect
+B Move or act
+C Store data
+D None
+Answer: B
+Control system in robots is:
+A Brain
+B Storage
+C Input
+D None
+Answer: A
+Autonomous robots can:
+A Work independently
+B Need human control
+C Sleep
+D None
+Answer: A
+AI systems require:
+A Data
+B Algorithms
+C Computing power
+D All
+Answer: D
+Chatbots are example of:
+A Hardware
+B AI software
+C Network
+D None
+Answer: B
+AI in education helps in:
+A Personalized learning
+B Automation
+C Assessment
+D All
+Answer: D
+AI in finance is used for:
+A Fraud detection
+B Trading
+C Risk analysis
+D All
+Answer: D
+Robotics in surgery helps in:
+A Precision
+B Accuracy
+C Safety
+D All
+Answer: D
+AI in agriculture helps in:
+A Crop monitoring
+B Yield prediction
+C Pest detection
+D All
+Answer: D
+AI-based recommendation systems are used in:
+A Shopping
+B Streaming
+C Social media
+D All
+Answer: D
+Ethical issues in AI include:
+A Bias
+B Privacy
+C Job loss
+D All
+Answer: D
+AI bias refers to:
+A Fair decisions
+B Unfair decisions
+C No decisions
+D None
+Answer: B
+Robotics may lead to:
+A Job creation
+B Job loss
+C Both
+D None
+Answer: C
+AI improves productivity by:
+A Automation
+B Efficiency
+C Speed
+D All
+Answer: D
+Humanoid robots resemble:
+A Animals
+B Humans
+C Machines
+D None
+Answer: B
+Industrial automation uses:
+A AI
+B Robots
+C Both
+D None
+Answer: C
+Reinforcement learning is:
+A Supervised learning
+B Learning by rewards
+C Unsupervised learning
+D None
+Answer: B
+Supervised learning uses:
+A Labeled data
+B Unlabeled data
+C No data
+D None
+Answer: A
+Unsupervised learning uses:
+A Labeled data
+B Unlabeled data
+C No data
+D None
+Answer: B
+AI systems are trained using:
+A Data
+B Models
+C Algorithms
+D All
+Answer: D
+Robotics in defense is used for:
+A Surveillance
+B Combat
+C Bomb disposal
+D All
+Answer: D
+AI-powered assistants include:
+A Siri
+B Alexa
+C Google Assistant
+D All
+Answer: D
+Robotics in space is used for:
+A Exploration
+B Research
+C Maintenance
+D All
+Answer: D
+AI in cybersecurity helps in:
+A Threat detection
+B Prevention
+C Monitoring
+D All
+Answer: D
+AI helps in big data by:
+A Analysis
+B Processing
+C Prediction
+D All
+Answer: D
+Robotics improves safety by:
+A Replacing humans in risky jobs
+B Increasing risk
+C No effect
+D None
+Answer: A
+AI development requires:
+A Data
+B Skills
+C Infrastructure
+D All
+Answer: D
+Future of AI is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+AI and robotics together enable:
+A Smart systems
+B Automation
+C Innovation
+D All
+Answer: D
+AI is important for:
+A Modern technology
+B Development
+C Innovation
+D All
+Answer: D
+
+Renewable energy is derived from:
+A Exhaustible sources
+B Natural replenishable sources
+C Fossil fuels
+D None
+Answer: B
+Non-renewable energy includes:
+A Solar
+B Wind
+C Coal
+D Hydro
+Answer: C
+Solar energy is obtained from:
+A Earth
+B Sun
+C Water
+D Wind
+Answer: B
+Solar panels convert:
+A Heat to electricity
+B Light to electricity
+C Wind to electricity
+D None
+Answer: B
+Photovoltaic cells are used in:
+A Wind energy
+B Solar energy
+C Hydro energy
+D None
+Answer: B
+Wind energy is generated using:
+A Turbines
+B Panels
+C Batteries
+D None
+Answer: A
+Hydropower is generated from:
+A Wind
+B Water
+C Sun
+D None
+Answer: B
+Biomass energy is obtained from:
+A Fossils
+B Organic matter
+C Minerals
+D None
+Answer: B
+Biogas is produced from:
+A Coal
+B Organic waste
+C Petrol
+D None
+Answer: B
+Biogas mainly contains:
+A Oxygen
+B Methane
+C Nitrogen
+D Hydrogen
+Answer: B
+Geothermal energy comes from:
+A Sun
+B Earth’s heat
+C Wind
+D None
+Answer: B
+Tidal energy is generated from:
+A Wind
+B Ocean tides
+C Sun
+D None
+Answer: B
+Renewable energy helps in:
+A Pollution increase
+B Pollution reduction
+C Resource depletion
+D None
+Answer: B
+Fossil fuels include:
+A Solar
+B Wind
+C Coal and petroleum
+D None
+Answer: C
+Burning fossil fuels causes:
+A Oxygen increase
+B Pollution
+C Water formation
+D None
+Answer: B
+Green energy refers to:
+A Polluting energy
+B Environment-friendly energy
+C Chemical energy
+D None
+Answer: B
+Solar thermal energy is used for:
+A Electricity only
+B Heating
+C Cooling
+D None
+Answer: B
+Wind turbines convert:
+A Heat energy
+B Kinetic energy
+C Chemical energy
+D None
+Answer: B
+Hydroelectric power uses:
+A Flowing water
+B Sunlight
+C Wind
+D None
+Answer: A
+Biomass includes:
+A Plants
+B Animal waste
+C Organic material
+D All
+Answer: D
+Biofuels include:
+A Petrol
+B Diesel
+C Ethanol
+D None
+Answer: C
+Biodiesel is made from:
+A Water
+B Vegetable oils
+C Coal
+D None
+Answer: B
+Renewable energy sources are:
+A Limited
+B Unlimited
+C Polluting
+D None
+Answer: B
+Solar energy is:
+A Non-renewable
+B Renewable
+C Exhaustible
+D None
+Answer: B
+Wind energy is:
+A Renewable
+B Non-renewable
+C Polluting
+D None
+Answer: A
+Energy conservation means:
+A Using more energy
+B Saving energy
+C Destroying energy
+D None
+Answer: B
+LED bulbs save:
+A More energy
+B Less energy
+C No energy
+D None
+Answer: A
+Energy efficiency means:
+A Less output
+B More output with less input
+C More input
+D None
+Answer: B
+Smart grids help in:
+A Energy distribution
+B Monitoring
+C Efficiency
+D All
+Answer: D
+Battery storage is important for:
+A Renewable energy
+B Fossil fuels
+C Mining
+D None
+Answer: A
+Lithium-ion batteries are used in:
+A Vehicles
+B Electronics
+C Storage systems
+D All
+Answer: D
+Electric vehicles use:
+A Petrol
+B Diesel
+C Electricity
+D None
+Answer: C
+EVs help in reducing:
+A Pollution
+B Fuel use
+C Emissions
+D All
+Answer: D
+Hydrogen fuel is:
+A Polluting
+B Clean energy
+C Fossil fuel
+D None
+Answer: B
+Fuel cells convert:
+A Chemical energy to electricity
+B Heat to electricity
+C Wind to electricity
+D None
+Answer: A
+Solar farms are used for:
+A Agriculture
+B Power generation
+C Mining
+D None
+Answer: B
+Wind farms are located in:
+A Cities
+B High wind areas
+C Forests
+D None
+Answer: B
+Hydropower plants require:
+A Rivers
+B Mountains
+C Water flow
+D All
+Answer: D
+Renewable energy reduces:
+A CO₂ emissions
+B Pollution
+C Climate change
+D All
+Answer: D
+Climate change is mainly caused by:
+A Oxygen
+B Greenhouse gases
+C Nitrogen
+D None
+Answer: B
+Solar energy is abundant in:
+A Polar regions
+B Tropical regions
+C Mountains
+D None
+Answer: B
+Energy mix refers to:
+A Single source
+B Combination of energy sources
+C No source
+D None
+Answer: B
+Sustainable energy means:
+A Short-term use
+B Long-term use without depletion
+C Polluting energy
+D None
+Answer: B
+Renewable energy development is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Government promotes renewable energy for:
+A Economy
+B Environment
+C Sustainability
+D All
+Answer: D
+Solar rooftops are used in:
+A Homes
+B Buildings
+C Offices
+D All
+Answer: D
+Renewable energy reduces dependence on:
+A Fossil fuels
+B Water
+C Air
+D None
+Answer: A
+Energy storage systems include:
+A Batteries
+B Pumps
+C Hydrogen
+D All
+Answer: D
+Future of renewable energy is:
+A Limited
+B Expanding
+C Declining
+D None
+Answer: B
+Renewable energy is important for:
+A Environment
+B Economy
+C Sustainability
+D All
+Answer: D
+
+Environment includes:
+A Living organisms
+B Non-living components
+C Surroundings
+D All
+Answer: D
+Ecology is the study of:
+A Humans
+B Environment and organisms
+C Machines
+D None
+Answer: B
+Ecosystem consists of:
+A Biotic components
+B Abiotic components
+C Interaction between them
+D All
+Answer: D
+Biotic components include:
+A Plants
+B Animals
+C Microorganisms
+D All
+Answer: D
+Abiotic components include:
+A Air
+B Water
+C Soil
+D All
+Answer: D
+Food chain shows:
+A Energy flow
+B Nutrient cycle
+C Both
+D None
+Answer: C
+Producers in ecosystem are:
+A Animals
+B Plants
+C Humans
+D None
+Answer: B
+Consumers are:
+A Plants
+B Animals
+C Minerals
+D None
+Answer: B
+Decomposers include:
+A Bacteria
+B Fungi
+C Both
+D None
+Answer: C
+Biodiversity refers to:
+A Single species
+B Variety of life
+C Pollution
+D None
+Answer: B
+Conservation means:
+A Destruction
+B Protection
+C Pollution
+D None
+Answer: B
+Renewable resources are:
+A Exhaustible
+B Replenishable
+C Limited
+D None
+Answer: B
+Non-renewable resources include:
+A Water
+B Coal
+C Sunlight
+D None
+Answer: B
+Pollution is:
+A Clean environment
+B Contamination of environment
+C Natural process
+D None
+Answer: B
+Air pollution is caused by:
+A Vehicles
+B Industries
+C Burning fuels
+D All
+Answer: D
+Water pollution affects:
+A Aquatic life
+B Human health
+C Ecosystem
+D All
+Answer: D
+Soil pollution is caused by:
+A Chemicals
+B Waste
+C Pesticides
+D All
+Answer: D
+Noise pollution affects:
+A Hearing
+B Health
+C Environment
+D All
+Answer: D
+Greenhouse gases include:
+A CO₂
+B Methane
+C Nitrous oxide
+D All
+Answer: D
+Global warming is caused by:
+A Oxygen
+B Greenhouse gases
+C Nitrogen
+D None
+Answer: B
+Climate change refers to:
+A Short-term weather
+B Long-term climate variation
+C Daily weather
+D None
+Answer: B
+Ozone layer protects from:
+A Visible light
+B UV radiation
+C Infrared
+D None
+Answer: B
+Ozone depletion is caused by:
+A CO₂
+B CFCs
+C Oxygen
+D None
+Answer: B
+Acid rain is caused by:
+A SO₂ and NOx
+B CO₂
+C O₂
+D None
+Answer: A
+Deforestation leads to:
+A Soil erosion
+B Loss of biodiversity
+C Climate change
+D All
+Answer: D
+Afforestation means:
+A Cutting trees
+B Planting trees
+C Burning forests
+D None
+Answer: B
+Sustainable development means:
+A Short-term growth
+B Long-term balanced growth
+C No development
+D None
+Answer: B
+Recycling helps in:
+A Waste reduction
+B Resource conservation
+C Pollution control
+D All
+Answer: D
+Waste management includes:
+A Collection
+B Treatment
+C Disposal
+D All
+Answer: D
+3Rs stand for:
+A Reduce, Reuse, Recycle
+B Remove, Replace, Reuse
+C Reduce, Remove, Recycle
+D None
+Answer: A
+Renewable energy reduces:
+A Pollution
+B Emissions
+C Climate change
+D All
+Answer: D
+Carbon footprint refers to:
+A Carbon storage
+B Carbon emission
+C Carbon cycle
+D None
+Answer: B
+Climate change impacts include:
+A Rising temperature
+B Melting glaciers
+C Sea level rise
+D All
+Answer: D
+Kyoto Protocol deals with:
+A Trade
+B Climate change
+C Biodiversity
+D None
+Answer: B
+Paris Agreement aims to:
+A Increase temperature
+B Limit global warming
+C Increase pollution
+D None
+Answer: B
+Renewable resources include:
+A Solar
+B Wind
+C Hydro
+D All
+Answer: D
+Non-renewable resources are:
+A Unlimited
+B Limited
+C Renewable
+D None
+Answer: B
+Water conservation is important for:
+A Survival
+B Agriculture
+C Environment
+D All
+Answer: D
+Energy conservation reduces:
+A Waste
+B Pollution
+C Cost
+D All
+Answer: D
+Environmental protection is:
+A Optional
+B Essential
+C Unnecessary
+D None
+Answer: B
+Climate change mitigation means:
+A Increase warming
+B Reduce emissions
+C No action
+D None
+Answer: B
+Adaptation to climate change includes:
+A Crop changes
+B Water management
+C Infrastructure
+D All
+Answer: D
+Ecosystem balance is maintained by:
+A Biodiversity
+B Interaction
+C Stability
+D All
+Answer: D
+Wildlife conservation protects:
+A Animals
+B Plants
+C Ecosystem
+D All
+Answer: D
+Environmental laws aim to:
+A Increase pollution
+B Protect environment
+C Destroy resources
+D None
+Answer: B
+Pollution control methods include:
+A Filters
+B Treatment
+C Regulation
+D All
+Answer: D
+Urbanization affects environment by:
+A Pollution
+B Resource use
+C Habitat loss
+D All
+Answer: D
+Climate action is needed for:
+A Future
+B Sustainability
+C Environment
+D All
+Answer: D
+Environmental awareness helps in:
+A Protection
+B Conservation
+C Sustainability
+D All
+Answer: D
+Environment is important for:
+A Life
+B Economy
+C Sustainability
+D All
+Answer: D
+
+Transportation technology deals with:
+A Communication
+B Movement of people and goods
+C Agriculture
+D None
+Answer: B
+The main modes of transport are:
+A Road
+B Rail
+C Air and Water
+D All
+Answer: D
+Road transport uses:
+A Cars
+B Buses
+C Trucks
+D All
+Answer: D
+Rail transport uses:
+A Ships
+B Trains
+C Aircraft
+D None
+Answer: B
+Air transport uses:
+A Ships
+B Aircraft
+C Trains
+D None
+Answer: B
+Water transport includes:
+A Ships
+B Boats
+C Submarines
+D All
+Answer: D
+The fastest mode of transport is:
+A Road
+B Rail
+C Air
+D Water
+Answer: C
+The cheapest mode of transport is:
+A Air
+B Road
+C Rail
+D Water
+Answer: D
+The busiest railway network in India is operated by:
+A Indian Railways
+B ISRO
+C DRDO
+D None
+Answer: A
+High-speed trains are also called:
+A Bullet trains
+B Cargo trains
+C Local trains
+D None
+Answer: A
+Metro rail is used for:
+A Long-distance travel
+B Urban transport
+C Air travel
+D None
+Answer: B
+Electric vehicles use:
+A Petrol
+B Diesel
+C Electricity
+D None
+Answer: C
+EVs help in reducing:
+A Pollution
+B Fuel consumption
+C Emissions
+D All
+Answer: D
+Hybrid vehicles use:
+A Only petrol
+B Only diesel
+C Combination of fuel and electricity
+D None
+Answer: C
+Fuel efficiency means:
+A More fuel use
+B Less fuel consumption for more distance
+C No fuel use
+D None
+Answer: B
+Internal combustion engine uses:
+A Electricity
+B Fuel combustion
+C Water
+D None
+Answer: B
+Electric motors are used in:
+A EVs
+B Trains
+C Machines
+D All
+Answer: D
+Maglev trains work on:
+A Wheels
+B Magnetic levitation
+C Air pressure
+D None
+Answer: B
+GPS is used for:
+A Communication
+B Navigation
+C Storage
+D None
+Answer: B
+Intelligent Transport Systems (ITS) include:
+A Traffic management
+B Navigation
+C Safety
+D All
+Answer: D
+Traffic signals are used for:
+A Decoration
+B Traffic control
+C Communication
+D None
+Answer: B
+Highways are used for:
+A Urban transport
+B Long-distance road transport
+C Air travel
+D None
+Answer: B
+Ports are used for:
+A Air transport
+B Water transport
+C Rail transport
+D None
+Answer: B
+Airports are used for:
+A Road transport
+B Air transport
+C Rail transport
+D None
+Answer: B
+Logistics refers to:
+A Transport only
+B Planning and movement of goods
+C Storage only
+D None
+Answer: B
+Supply chain includes:
+A Production
+B Transport
+C Distribution
+D All
+Answer: D
+Containerization helps in:
+A Faster transport
+B Safe handling
+C Efficiency
+D All
+Answer: D
+Urban transport problems include:
+A Traffic congestion
+B Pollution
+C Accidents
+D All
+Answer: D
+Public transport includes:
+A Buses
+B Trains
+C Metro
+D All
+Answer: D
+Private transport includes:
+A Personal cars
+B Bikes
+C Both
+D None
+Answer: C
+Carpooling helps in:
+A Increasing traffic
+B Reducing traffic
+C Pollution increase
+D None
+Answer: B
+Bicycle is:
+A Motorized
+B Non-motorized
+C Electric
+D None
+Answer: B
+Sustainable transport means:
+A High pollution
+B Eco-friendly transport
+C No transport
+D None
+Answer: B
+Electric buses help in:
+A Pollution reduction
+B Fuel saving
+C Sustainability
+D All
+Answer: D
+Aviation industry deals with:
+A Road transport
+B Air transport
+C Water transport
+D None
+Answer: B
+Ships are used for:
+A Air
+B Water
+C Land
+D None
+Answer: B
+Freight transport deals with:
+A Passengers
+B Goods
+C Animals
+D None
+Answer: B
+Passenger transport deals with:
+A Goods
+B People
+C Both
+D None
+Answer: B
+Smart transport systems use:
+A ICT
+B Sensors
+C Data
+D All
+Answer: D
+Autonomous vehicles use:
+A AI
+B Sensors
+C Automation
+D All
+Answer: D
+Road safety includes:
+A Rules
+B Signals
+C Awareness
+D All
+Answer: D
+Traffic rules are important for:
+A Safety
+B Order
+C Efficiency
+D All
+Answer: D
+Transport contributes to economy by:
+A Trade
+B Connectivity
+C Growth
+D All
+Answer: D
+Fuel types include:
+A Petrol
+B Diesel
+C CNG
+D All
+Answer: D
+CNG is:
+A Liquid fuel
+B Gas fuel
+C Solid fuel
+D None
+Answer: B
+Hydrogen fuel is:
+A Polluting
+B Clean energy
+C Fossil fuel
+D None
+Answer: B
+Transportation causes:
+A Pollution
+B Emissions
+C Climate impact
+D All
+Answer: D
+Green transport includes:
+A EVs
+B Public transport
+C Cycling
+D All
+Answer: D
+Future transport includes:
+A Electric vehicles
+B Autonomous vehicles
+C Smart systems
+D All
+Answer: D
+Transportation is essential for:
+A Economy
+B Development
+C Connectivity
+D All
+Answer: D
+
+Material science deals with:
+A Study of living organisms
+B Study of materials and their properties
+C Study of space
+D None
+Answer: B
+Materials are classified into:
+A Metals
+B Ceramics
+C Polymers
+D All
+Answer: D
+Metals are known for:
+A Poor conductivity
+B Good conductivity
+C Fragility
+D None
+Answer: B
+Ceramics are:
+A Soft
+B Hard and brittle
+C Conductive
+D None
+Answer: B
+Polymers are:
+A Metals
+B Long chain molecules
+C Ceramics
+D None
+Answer: B
+Examples of metals include:
+A Iron
+B Copper
+C Aluminum
+D All
+Answer: D
+Plastics are:
+A Metals
+B Polymers
+C Ceramics
+D None
+Answer: B
+Alloys are:
+A Pure metals
+B Mixture of metals
+C Non-metals
+D None
+Answer: B
+Steel is an alloy of:
+A Iron and carbon
+B Copper and zinc
+C Aluminum and iron
+D None
+Answer: A
+Bronze is an alloy of:
+A Copper and zinc
+B Copper and tin
+C Iron and carbon
+D None
+Answer: B
+Brass is an alloy of:
+A Copper and zinc
+B Copper and tin
+C Iron and carbon
+D None
+Answer: A
+Composite materials are:
+A Single material
+B Combination of materials
+C Pure substances
+D None
+Answer: B
+Fiber-reinforced plastics are:
+A Metals
+B Composites
+C Ceramics
+D None
+Answer: B
+Nanomaterials have size:
+A >1000 nm
+B 1–100 nm
+C 1–1000 mm
+D None
+Answer: B
+Smart materials respond to:
+A Environment
+B Temperature
+C Pressure
+D All
+Answer: D
+Shape memory alloys can:
+A Break easily
+B Return to original shape
+C Melt
+D None
+Answer: B
+Piezoelectric materials generate:
+A Heat
+B Electricity
+C Light
+D None
+Answer: B
+Semiconductors are used in:
+A Electronics
+B Machines
+C Agriculture
+D None
+Answer: A
+Silicon is a:
+A Metal
+B Semiconductor
+C Ceramic
+D None
+Answer: B
+Conductors allow:
+A No current
+B Flow of electricity
+C Heat only
+D None
+Answer: B
+Insulators prevent:
+A Current flow
+B Heat
+C Light
+D None
+Answer: A
+Superconductors have:
+A High resistance
+B Zero resistance
+C Medium resistance
+D None
+Answer: B
+Graphene is known for:
+A Weak strength
+B High strength and conductivity
+C Low conductivity
+D None
+Answer: B
+Nanomaterials have:
+A Low surface area
+B High surface area
+C No surface area
+D None
+Answer: B
+Biomaterials are used in:
+A Medicine
+B Implants
+C Prosthetics
+D All
+Answer: D
+Ceramics are used in:
+A Construction
+B Electronics
+C Industry
+D All
+Answer: D
+Polymers are used in:
+A Packaging
+B Textiles
+C Plastics
+D All
+Answer: D
+Metals are used in:
+A Construction
+B Machinery
+C Transport
+D All
+Answer: D
+Advanced materials include:
+A Nanomaterials
+B Smart materials
+C Biomaterials
+D All
+Answer: D
+Corrosion is:
+A Formation of metal
+B Degradation of metal
+C Strength increase
+D None
+Answer: B
+Rusting is example of:
+A Corrosion
+B Reduction
+C Oxidation
+D Both A and C
+Answer: D
+Stainless steel resists:
+A Heat
+B Corrosion
+C Electricity
+D None
+Answer: B
+Glass is a:
+A Metal
+B Ceramic
+C Polymer
+D None
+Answer: B
+Rubber is a:
+A Metal
+B Polymer
+C Ceramic
+D None
+Answer: B
+Thermoplastics can be:
+A Remolded
+B Not remolded
+C Broken
+D None
+Answer: A
+Thermosetting plastics:
+A Can be remolded
+B Cannot be remolded
+C Melt easily
+D None
+Answer: B
+Carbon fiber is used in:
+A Aerospace
+B Sports
+C Automotive
+D All
+Answer: D
+Lightweight materials are important for:
+A Transport
+B Aerospace
+C Efficiency
+D All
+Answer: D
+Material properties include:
+A Strength
+B Hardness
+C Conductivity
+D All
+Answer: D
+Elastic materials can:
+A Break
+B Return to shape
+C Melt
+D None
+Answer: B
+Plastic deformation means:
+A Temporary change
+B Permanent change
+C No change
+D None
+Answer: B
+Materials are selected based on:
+A Cost
+B Properties
+C Application
+D All
+Answer: D
+Recycling materials helps in:
+A Waste reduction
+B Resource conservation
+C Pollution control
+D All
+Answer: D
+Advanced materials improve:
+A Performance
+B Efficiency
+C Durability
+D All
+Answer: D
+Nanotechnology is used in materials for:
+A Strength
+B Conductivity
+C Functionality
+D All
+Answer: D
+Smart materials are used in:
+A Sensors
+B Actuators
+C Devices
+D All
+Answer: D
+Material science supports:
+A Industry
+B Technology
+C Innovation
+D All
+Answer: D
+Future materials include:
+A Nanomaterials
+B Smart materials
+C Biomaterials
+D All
+Answer: D
+Material science is important for:
+A Engineering
+B Technology
+C Development
+D All
+Answer: D
+Materials are essential for:
+A Daily life
+B Industry
+C Technology
+D All
+Answer: D
+
+Nuclear technology deals with:
+A Chemical reactions
+B Atomic nucleus and its applications
+C Mechanical systems
+D None
+Answer: B
+The nucleus of an atom contains:
+A Electrons
+B Protons and neutrons
+C Only protons
+D None
+Answer: B
+Nuclear energy is obtained from:
+A Chemical reactions
+B Nuclear reactions
+C Mechanical work
+D None
+Answer: B
+Nuclear fission is:
+A Combining nuclei
+B Splitting of heavy nucleus
+C Chemical reaction
+D None
+Answer: B
+Nuclear fusion is:
+A Splitting nucleus
+B Combining light nuclei
+C Chemical reaction
+D None
+Answer: B
+Which element is commonly used in nuclear reactors?
+A Oxygen
+B Uranium
+C Iron
+D None
+Answer: B
+Uranium-235 is used for:
+A Fusion
+B Fission
+C Chemical reaction
+D None
+Answer: B
+Nuclear reactors produce:
+A Electricity
+B Heat
+C Energy
+D All
+Answer: D
+Control rods in reactor are used to:
+A Increase reaction
+B Control reaction
+C Stop cooling
+D None
+Answer: B
+Moderator in reactor is used to:
+A Speed up neutrons
+B Slow down neutrons
+C Stop reaction
+D None
+Answer: B
+Coolant is used to:
+A Increase heat
+B Remove heat
+C Stop reaction
+D None
+Answer: B
+Nuclear power plants generate electricity using:
+A Fission
+B Fusion
+C Combustion
+D None
+Answer: A
+Radiation is:
+A Heat
+B Energy emission
+C Light only
+D None
+Answer: B
+Types of radiation include:
+A Alpha
+B Beta
+C Gamma
+D All
+Answer: D
+Alpha particles are:
+A Light
+B Heavy
+C Neutral
+D None
+Answer: B
+Beta particles are:
+A Electrons
+B Protons
+C Neutrons
+D None
+Answer: A
+Gamma rays are:
+A Charged
+B Neutral electromagnetic waves
+C Heavy particles
+D None
+Answer: B
+Radioactivity is:
+A Stable nucleus
+B Spontaneous emission of radiation
+C Chemical reaction
+D None
+Answer: B
+Half-life is:
+A Full decay time
+B Time for half decay
+C No decay
+D None
+Answer: B
+Nuclear energy is:
+A Renewable
+B Non-renewable
+C Infinite
+D None
+Answer: B
+Nuclear power is considered clean because:
+A No waste
+B Low greenhouse gases
+C No radiation
+D None
+Answer: B
+Nuclear waste is:
+A Harmless
+B Radioactive
+C Useful
+D None
+Answer: B
+Nuclear waste disposal is:
+A Easy
+B Difficult
+C Unnecessary
+D None
+Answer: B
+Nuclear fusion occurs in:
+A Earth
+B Sun
+C Water
+D None
+Answer: B
+Hydrogen bombs are based on:
+A Fission
+B Fusion
+C Chemical reaction
+D None
+Answer: B
+Atomic bombs are based on:
+A Fusion
+B Fission
+C Chemical reaction
+D None
+Answer: B
+Nuclear medicine uses:
+A Radiation
+B Chemicals
+C Heat
+D None
+Answer: A
+Radiotherapy is used for:
+A Infection
+B Cancer treatment
+C Fever
+D None
+Answer: B
+Radioisotopes are used in:
+A Medicine
+B Industry
+C Research
+D All
+Answer: D
+Carbon-14 is used for:
+A Dating fossils
+B Energy
+C Medicine
+D None
+Answer: A
+Nuclear reactors are used in:
+A Power generation
+B Research
+C Submarines
+D All
+Answer: D
+Nuclear submarines use:
+A Diesel
+B Nuclear energy
+C Petrol
+D None
+Answer: B
+Radiation hazards include:
+A Cancer
+B Mutation
+C Health issues
+D All
+Answer: D
+Shielding is used to:
+A Increase radiation
+B Reduce radiation exposure
+C Stop reaction
+D None
+Answer: B
+Lead is used for shielding because:
+A Light
+B Dense
+C Cheap
+D None
+Answer: B
+Nuclear safety measures include:
+A Monitoring
+B Shielding
+C Control systems
+D All
+Answer: D
+Nuclear proliferation means:
+A Spread of nuclear weapons
+B Energy production
+C Research
+D None
+Answer: A
+International agencies regulate nuclear use like:
+A IAEA
+B ISRO
+C DRDO
+D None
+Answer: A
+IAEA ensures:
+A Trade
+B Nuclear safety and security
+C Agriculture
+D None
+Answer: B
+Nuclear energy contributes to:
+A Electricity
+B Industry
+C Research
+D All
+Answer: D
+Nuclear fusion is:
+A Easily achieved
+B Difficult to achieve
+C Common
+D None
+Answer: B
+Tokamak is used for:
+A Fission
+B Fusion research
+C Chemical reaction
+D None
+Answer: B
+Nuclear technology helps in agriculture by:
+A Mutation breeding
+B Pest control
+C Food preservation
+D All
+Answer: D
+Food irradiation helps in:
+A Spoilage
+B Preservation
+C Pollution
+D None
+Answer: B
+Nuclear energy has risk of:
+A Accidents
+B Radiation leak
+C Environmental impact
+D All
+Answer: D
+Chernobyl disaster was due to:
+A Chemical reaction
+B Nuclear accident
+C Fire
+D None
+Answer: B
+Fukushima disaster was caused by:
+A Earthquake & tsunami
+B Fire
+C Explosion
+D None
+Answer: A
+Nuclear energy is efficient because:
+A Low energy
+B High energy output
+C No output
+D None
+Answer: B
+Future of nuclear technology includes:
+A Fusion energy
+B Advanced reactors
+C Safety improvements
+D All
+Answer: D
+Nuclear technology is important for:
+A Energy
+B Medicine
+C Research
+D All
+Answer: D
+
+Agriculture technology deals with:
+A Space study
+B Use of technology in farming
+C Mining
+D None
+Answer: B
+Modern agriculture uses:
+A Traditional tools
+B Advanced machinery
+C No tools
+D None
+Answer: B
+Mechanization in agriculture means:
+A Manual work
+B Use of machines
+C No work
+D None
+Answer: B
+Tractors are used for:
+A Cooking
+B Ploughing
+C Storage
+D None
+Answer: B
+Irrigation refers to:
+A Harvesting
+B Water supply to crops
+C Fertilization
+D None
+Answer: B
+Drip irrigation helps in:
+A Water wastage
+B Water saving
+C Flooding
+D None
+Answer: B
+Sprinkler irrigation is used for:
+A Water distribution
+B Harvesting
+C Storage
+D None
+Answer: A
+Fertilizers are used for:
+A Pest control
+B Soil nutrients
+C Irrigation
+D None
+Answer: B
+Organic fertilizers include:
+A Chemicals
+B Compost
+C Pesticides
+D None
+Answer: B
+Pesticides are used to:
+A Increase soil
+B Control pests
+C Irrigate crops
+D None
+Answer: B
+Herbicides are used to:
+A Kill insects
+B Kill weeds
+C Fertilize soil
+D None
+Answer: B
+High Yielding Varieties (HYV) seeds are:
+A Low production
+B High production
+C No production
+D None
+Answer: B
+Green Revolution focused on:
+A Industry
+B Agriculture
+C Transport
+D None
+Answer: B
+Biotechnology in agriculture helps in:
+A Crop improvement
+B Pest resistance
+C Yield increase
+D All
+Answer: D
+Genetically Modified (GM) crops are:
+A Natural
+B Modified using genes
+C Artificial only
+D None
+Answer: B
+Precision farming uses:
+A Random methods
+B Technology and data
+C Manual work
+D None
+Answer: B
+Remote sensing in agriculture helps in:
+A Crop monitoring
+B Soil analysis
+C Weather prediction
+D All
+Answer: D
+Soil testing is used for:
+A Crop selection
+B Nutrient analysis
+C Fertilizer use
+D All
+Answer: D
+Crop rotation helps in:
+A Soil fertility
+B Pest control
+C Sustainability
+D All
+Answer: D
+Organic farming avoids:
+A Natural methods
+B Chemical fertilizers
+C Crop rotation
+D None
+Answer: B
+Food processing includes:
+A Cleaning
+B Packaging
+C Preservation
+D All
+Answer: D
+Food preservation methods include:
+A Drying
+B Refrigeration
+C Canning
+D All
+Answer: D
+Refrigeration helps in:
+A Spoilage
+B Preservation
+C Heating
+D None
+Answer: B
+Cold storage is used for:
+A Heating
+B Food storage
+C Processing
+D None
+Answer: B
+Food packaging helps in:
+A Protection
+B Storage
+C Transport
+D All
+Answer: D
+Food safety ensures:
+A Quality
+B Hygiene
+C Health
+D All
+Answer: D
+Food adulteration means:
+A Pure food
+B Contaminated food
+C Clean food
+D None
+Answer: B
+FSSAI regulates:
+A Transport
+B Food safety in India
+C Agriculture
+D None
+Answer: B
+FSSAI ensures:
+A Trade
+B Food quality and safety
+C Transport
+D None
+Answer: B
+Processing of food increases:
+A Spoilage
+B Shelf life
+C Waste
+D None
+Answer: B
+Value addition in food means:
+A Reducing quality
+B Increasing value
+C Wasting food
+D None
+Answer: B
+Dairy processing includes:
+A Milk
+B Cheese
+C Butter
+D All
+Answer: D
+Food industries contribute to:
+A Economy
+B Employment
+C Development
+D All
+Answer: D
+Agro-based industries use:
+A Crops
+B Raw materials from agriculture
+C Minerals
+D None
+Answer: B
+Storage losses occur due to:
+A Pests
+B Moisture
+C Poor storage
+D All
+Answer: D
+Warehouses are used for:
+A Production
+B Storage
+C Processing
+D None
+Answer: B
+Food processing reduces:
+A Waste
+B Losses
+C Spoilage
+D All
+Answer: D
+Supply chain in agriculture includes:
+A Production
+B Storage
+C Distribution
+D All
+Answer: D
+E-agriculture uses:
+A ICT
+B Data
+C Technology
+D All
+Answer: D
+Climate change affects agriculture by:
+A Crop yield
+B Water availability
+C Weather
+D All
+Answer: D
+Sustainable agriculture means:
+A Short-term farming
+B Long-term farming
+C No farming
+D None
+Answer: B
+Farm mechanization improves:
+A Productivity
+B Efficiency
+C Output
+D All
+Answer: D
+Food security means:
+A Food shortage
+B Availability of food
+C No food
+D None
+Answer: B
+Post-harvest technology deals with:
+A Growing crops
+B Storage and processing
+C Irrigation
+D None
+Answer: B
+Agro-processing adds:
+A Value
+B Quality
+C Income
+D All
+Answer: D
+Cold chain helps in:
+A Heating
+B Preservation
+C Storage
+D Both B and C
+Answer: D
+Smart farming uses:
+A Sensors
+B Data
+C Automation
+D All
+Answer: D
+Agriculture technology supports:
+A Farmers
+B Economy
+C Food production
+D All
+Answer: D
+Future of agriculture technology is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+Agriculture technology is important for:
+A Food
+B Economy
+C Sustainability
+D All
+Answer: D
+
+Health technology deals with:
+A Agriculture
+B Medical tools and techniques
+C Transport
+D None
+Answer: B
+Medical technology is used for:
+A Diagnosis
+B Treatment
+C Monitoring
+D All
+Answer: D
+X-ray is used for:
+A Blood test
+B Imaging bones
+C Surgery
+D None
+Answer: B
+CT scan stands for:
+A Computerized Tomography
+B Computed Tomography
+C Controlled Tomography
+D None
+Answer: B
+MRI stands for:
+A Magnetic Resonance Imaging
+B Mechanical Resonance Imaging
+C Magnetic Radiation Imaging
+D None
+Answer: A
+Ultrasound is used for:
+A Imaging
+B Diagnosis
+C Monitoring
+D All
+Answer: D
+ECG measures:
+A Brain activity
+B Heart activity
+C Lung function
+D None
+Answer: B
+EEG measures:
+A Heart
+B Brain activity
+C Blood
+D None
+Answer: B
+Telemedicine allows:
+A Physical treatment
+B Remote healthcare
+C Surgery
+D None
+Answer: B
+Vaccines are used for:
+A Cure
+B Prevention
+C Diagnosis
+D None
+Answer: B
+Immunization protects from:
+A Diseases
+B Injury
+C Pollution
+D None
+Answer: A
+Antibiotics are used for:
+A Viral infections
+B Bacterial infections
+C Fungal infections
+D None
+Answer: B
+Surgery involves:
+A Medicines
+B Operations
+C Diagnosis
+D None
+Answer: B
+Laser surgery uses:
+A Heat
+B Light
+C Sound
+D None
+Answer: B
+Robotics in surgery improves:
+A Accuracy
+B Precision
+C Safety
+D All
+Answer: D
+Artificial organs include:
+A Heart
+B Kidney
+C Limbs
+D All
+Answer: D
+Organ transplantation is:
+A Removal
+B Replacement
+C Storage
+D None
+Answer: B
+Stem cells are used for:
+A Growth
+B Regeneration
+C Repair
+D All
+Answer: D
+Biotechnology helps in:
+A Drug development
+B Vaccines
+C Therapy
+D All
+Answer: D
+Nanotechnology in medicine is called:
+A Nanoscience
+B Nanomedicine
+C Biotechnology
+D None
+Answer: B
+Biosensors are used for:
+A Detection
+B Monitoring
+C Diagnosis
+D All
+Answer: D
+Glucometer measures:
+A Blood pressure
+B Blood sugar
+C Temperature
+D None
+Answer: B
+Blood pressure is measured by:
+A Thermometer
+B Sphygmomanometer
+C Barometer
+D None
+Answer: B
+Digital health includes:
+A Apps
+B Devices
+C Online systems
+D All
+Answer: D
+E-health refers to:
+A Electronic healthcare
+B Emergency care
+C Energy care
+D None
+Answer: A
+Wearable devices include:
+A Smartwatch
+B Fitness bands
+C Sensors
+D All
+Answer: D
+AI in healthcare helps in:
+A Diagnosis
+B Prediction
+C Treatment
+D All
+Answer: D
+Medical imaging includes:
+A X-ray
+B MRI
+C CT
+D All
+Answer: D
+Health monitoring devices track:
+A Heart rate
+B Activity
+C Sleep
+D All
+Answer: D
+Prosthetics are:
+A Medicines
+B Artificial body parts
+C Devices
+D None
+Answer: B
+Rehabilitation technology helps in:
+A Recovery
+B Therapy
+C Support
+D All
+Answer: D
+3D printing is used in:
+A Organs
+B Implants
+C Prosthetics
+D All
+Answer: D
+Drug delivery systems help in:
+A Targeting
+B Efficiency
+C Safety
+D All
+Answer: D
+Clinical trials are used for:
+A Testing drugs
+B Diagnosis
+C Treatment
+D None
+Answer: A
+Health informatics deals with:
+A Data
+B Information
+C Systems
+D All
+Answer: D
+Pandemic refers to:
+A Local disease
+B Global spread disease
+C Seasonal disease
+D None
+Answer: B
+Hygiene helps in:
+A Disease prevention
+B Health
+C Safety
+D All
+Answer: D
+Sanitation refers to:
+A Clean environment
+B Waste management
+C Hygiene
+D All
+Answer: D
+Public health focuses on:
+A Individual
+B Community
+C Animals
+D None
+Answer: B
+Nutrition is important for:
+A Growth
+B Health
+C Immunity
+D All
+Answer: D
+Telehealth includes:
+A Remote consultation
+B Monitoring
+C Services
+D All
+Answer: D
+Health technology improves:
+A Access
+B Efficiency
+C Quality
+D All
+Answer: D
+Vaccination programs help in:
+A Prevention
+B Control
+C Eradication
+D All
+Answer: D
+Healthcare systems include:
+A Hospitals
+B Clinics
+C Services
+D All
+Answer: D
+Medical research helps in:
+A Innovation
+B Treatment
+C Knowledge
+D All
+Answer: D
+Health awareness improves:
+A Lifestyle
+B Prevention
+C Health
+D All
+Answer: D
+Future of health technology is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+Medical devices include:
+A Equipment
+B Tools
+C Instruments
+D All
+Answer: D
+Health technology is important for:
+A Life
+B Health
+C Development
+D All
+Answer: D
+Healthcare advancements improve:
+A Quality of life
+B Longevity
+C Health outcomes
+D All
+Answer: D
+
+Education Technology (EdTech) refers to:
+A Traditional teaching
+B Use of technology in education
+C Agriculture learning
+D None
+Answer: B
+EdTech includes:
+A Digital tools
+B Online platforms
+C E-learning
+D All
+Answer: D
+E-learning means:
+A Classroom learning
+B Learning through electronic media
+C Outdoor learning
+D None
+Answer: B
+Online education uses:
+A Internet
+B Books
+C Chalkboard
+D None
+Answer: A
+Learning Management System (LMS) is used for:
+A Teaching only
+B Managing courses
+C Storage
+D None
+Answer: B
+Examples of LMS include:
+A Moodle
+B Google Classroom
+C Blackboard
+D All
+Answer: D
+Digital content includes:
+A Videos
+B E-books
+C Audio
+D All
+Answer: D
+Smart classrooms use:
+A Blackboard
+B Technology
+C Chalk
+D None
+Answer: B
+Virtual learning environment is:
+A Physical classroom
+B Online learning space
+C Library
+D None
+Answer: B
+MOOCs stand for:
+A Massive Open Online Courses
+B Modern Online Courses
+C Multiple Online Courses
+D None
+Answer: A
+MOOCs are:
+A Paid only
+B Free or low-cost courses
+C Offline courses
+D None
+Answer: B
+EdTech improves:
+A Access to education
+B Flexibility
+C Efficiency
+D All
+Answer: D
+Digital literacy means:
+A Reading books
+B Using digital tools
+C Writing
+D None
+Answer: B
+ICT in education includes:
+A Computers
+B Internet
+C Software
+D All
+Answer: D
+Online assessments include:
+A Tests
+B Quizzes
+C Exams
+D All
+Answer: D
+EdTech supports:
+A Distance learning
+B Remote education
+C Flexible learning
+D All
+Answer: D
+Video conferencing tools include:
+A Zoom
+B Google Meet
+C Teams
+D All
+Answer: D
+Digital divide refers to:
+A Equal access
+B Lack of access to technology
+C Data
+D None
+Answer: B
+EdTech helps teachers by:
+A Content delivery
+B Assessment
+C Management
+D All
+Answer: D
+Students benefit from EdTech by:
+A Flexibility
+B Access
+C Engagement
+D All
+Answer: D
+Gamification in education means:
+A Playing games
+B Using game elements in learning
+C No learning
+D None
+Answer: B
+AI in education helps in:
+A Personalization
+B Assessment
+C Feedback
+D All
+Answer: D
+Adaptive learning adjusts:
+A Content
+B Difficulty
+C Pace
+D All
+Answer: D
+Digital libraries provide:
+A Books
+B Journals
+C Resources
+D All
+Answer: D
+E-books are:
+A Printed
+B Digital books
+C Audio
+D None
+Answer: B
+Multimedia learning includes:
+A Text
+B Audio
+C Video
+D All
+Answer: D
+EdTech tools include:
+A Apps
+B Platforms
+C Software
+D All
+Answer: D
+Blended learning combines:
+A Online only
+B Offline only
+C Online and offline
+D None
+Answer: C
+Flipped classroom means:
+A Teaching in class
+B Learning at home, practice in class
+C No learning
+D None
+Answer: B
+EdTech supports collaboration through:
+A Forums
+B Chats
+C Groups
+D All
+Answer: D
+Learning analytics involves:
+A Data collection
+B Analysis
+C Improvement
+D All
+Answer: D
+Cloud computing in education provides:
+A Storage
+B Access
+C Scalability
+D All
+Answer: D
+Mobile learning uses:
+A Computers
+B Smartphones
+C Books
+D None
+Answer: B
+EdTech improves engagement by:
+A Interactivity
+B Multimedia
+C Feedback
+D All
+Answer: D
+Virtual reality (VR) is used in:
+A Gaming
+B Education
+C Training
+D All
+Answer: D
+Augmented reality (AR) adds:
+A Real elements
+B Virtual elements
+C Both
+D None
+Answer: B
+EdTech helps in skill development by:
+A Training
+B Courses
+C Practice
+D All
+Answer: D
+Online certifications are:
+A Offline
+B Digital
+C Printed
+D None
+Answer: B
+EdTech platforms include:
+A Coursera
+B Udemy
+C Byju’s
+D All
+Answer: D
+Digital assessment improves:
+A Speed
+B Accuracy
+C Feedback
+D All
+Answer: D
+EdTech supports lifelong learning by:
+A Continuous education
+B Skill development
+C Access
+D All
+Answer: D
+Cybersecurity in EdTech protects:
+A Data
+B Privacy
+C Systems
+D All
+Answer: D
+EdTech challenges include:
+A Digital divide
+B Connectivity
+C Cost
+D All
+Answer: D
+Teacher training in EdTech improves:
+A Skills
+B Teaching
+C Efficiency
+D All
+Answer: D
+EdTech promotes:
+A Innovation
+B Accessibility
+C Inclusion
+D All
+Answer: D
+Online discussion forums help in:
+A Interaction
+B Collaboration
+C Learning
+D All
+Answer: D
+EdTech tools require:
+A Internet
+B Devices
+C Skills
+D All
+Answer: D
+Future of EdTech is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+EdTech is important for:
+A Education
+B Skills
+C Development
+D All
+Answer: D
+Technology in education enhances:
+A Learning
+B Teaching
+C Outcomes
+D All
+Answer: D
+
+FinTech refers to:
+A Financial trading
+B Technology in financial services
+C Banking only
+D None
+Answer: B
+FinTech combines:
+A Finance and technology
+B Banking and agriculture
+C Science and math
+D None
+Answer: A
+Digital payments include:
+A Cash
+B UPI
+C Cheque
+D None
+Answer: B
+UPI stands for:
+A Unified Payment Interface
+B Universal Payment Interface
+C Unified Payments Interface
+D None
+Answer: C
+UPI is developed by:
+A RBI
+B NPCI
+C SBI
+D None
+Answer: B
+NPCI operates:
+A Stock market
+B Payment systems
+C Agriculture
+D None
+Answer: B
+Mobile wallets include:
+A Paytm
+B PhonePe
+C Google Pay
+D All
+Answer: D
+Digital banking refers to:
+A Offline banking
+B Online banking
+C Manual banking
+D None
+Answer: B
+ATM stands for:
+A Automatic Teller Machine
+B Automated Teller Machine
+C Advanced Teller Machine
+D None
+Answer: B
+Net banking is:
+A Offline banking
+B Internet banking
+C Mobile banking
+D None
+Answer: B
+Mobile banking uses:
+A Phones
+B Computers
+C Books
+D None
+Answer: A
+FinTech improves:
+A Speed
+B Efficiency
+C Accessibility
+D All
+Answer: D
+Blockchain is:
+A Database
+B Distributed ledger
+C Software
+D None
+Answer: B
+Blockchain ensures:
+A Transparency
+B Security
+C Immutability
+D All
+Answer: D
+Cryptocurrency is:
+A Physical currency
+B Digital currency
+C Paper currency
+D None
+Answer: B
+Bitcoin is:
+A Physical currency
+B Digital currency
+C Gold
+D None
+Answer: B
+Cryptocurrencies use:
+A Banks
+B Blockchain
+C Paper
+D None
+Answer: B
+Digital payments reduce:
+A Cash use
+B Transparency
+C Efficiency
+D None
+Answer: A
+FinTech services include:
+A Payments
+B Lending
+C Insurance
+D All
+Answer: D
+Peer-to-peer lending is:
+A Bank lending
+B Direct lending
+C Government lending
+D None
+Answer: B
+Robo-advisors provide:
+A Human advice
+B Automated financial advice
+C No advice
+D None
+Answer: B
+InsurTech refers to:
+A Insurance technology
+B Banking
+C Agriculture
+D None
+Answer: A
+RegTech refers to:
+A Regulation technology
+B Registration
+C Regional tech
+D None
+Answer: A
+Digital KYC is:
+A Offline verification
+B Online identity verification
+C Manual process
+D None
+Answer: B
+Aadhaar is used for:
+A Identification
+B Banking
+C KYC
+D All
+Answer: D
+FinTech improves financial inclusion by:
+A Access
+B Services
+C Reach
+D All
+Answer: D
+Microfinance provides:
+A Large loans
+B Small loans
+C No loans
+D None
+Answer: B
+Payment gateways are used for:
+A Offline payment
+B Online transactions
+C Storage
+D None
+Answer: B
+POS machines are used for:
+A Storage
+B Payment
+C Processing
+D None
+Answer: B
+Digital currency issued by central bank is:
+A Cryptocurrency
+B CBDC
+C Cash
+D None
+Answer: B
+RBI stands for:
+A Reserve Bank of India
+B Regional Bank of India
+C Rural Bank of India
+D None
+Answer: A
+Reserve Bank of India controls:
+A Agriculture
+B Monetary policy
+C Education
+D None
+Answer: B
+FinTech risks include:
+A Cybersecurity
+B Fraud
+C Data breaches
+D All
+Answer: D
+Cybersecurity protects:
+A Data
+B Transactions
+C Systems
+D All
+Answer: D
+Digital fraud includes:
+A Phishing
+B Hacking
+C Scams
+D All
+Answer: D
+OTP stands for:
+A One Time Password
+B Online Transfer Password
+C One Transfer Process
+D None
+Answer: A
+FinTech apps require:
+A Internet
+B Devices
+C Security
+D All
+Answer: D
+Contactless payment uses:
+A Cash
+B NFC
+C Cheque
+D None
+Answer: B
+QR codes are used for:
+A Storage
+B Payment
+C Processing
+D None
+Answer: B
+Digital transactions are:
+A Slow
+B Fast
+C Manual
+D None
+Answer: B
+E-commerce uses FinTech for:
+A Payments
+B Transactions
+C Security
+D All
+Answer: D
+FinTech promotes:
+A Innovation
+B Efficiency
+C Inclusion
+D All
+Answer: D
+Digital wallets store:
+A Cash
+B Digital money
+C Gold
+D None
+Answer: B
+FinTech regulation ensures:
+A Safety
+B Security
+C Stability
+D All
+Answer: D
+AI in FinTech helps in:
+A Fraud detection
+B Risk analysis
+C Automation
+D All
+Answer: D
+Big data in FinTech helps in:
+A Analysis
+B Decision making
+C Prediction
+D All
+Answer: D
+FinTech supports economy by:
+A Growth
+B Innovation
+C Efficiency
+D All
+Answer: D
+Future of FinTech is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+FinTech is important for:
+A Banking
+B Finance
+C Economy
+D All
+Answer: D
+Financial technology improves:
+A Access
+B Speed
+C Convenience
+D All
+Answer: D
+
+Cybersecurity refers to:
+A Physical security
+B Protection of digital systems
+C Environmental safety
+D None
+Answer: B
+Cybersecurity protects:
+A Data
+B Networks
+C Systems
+D All
+Answer: D
+Cyber threats include:
+A Viruses
+B Hacking
+C Phishing
+D All
+Answer: D
+Malware is:
+A Useful software
+B Malicious software
+C Hardware
+D None
+Answer: B
+Virus is a type of:
+A Hardware
+B Malware
+C Data
+D None
+Answer: B
+Trojan horse is:
+A Safe software
+B Malicious program
+C Hardware
+D None
+Answer: B
+Worm is:
+A Animal
+B Self-replicating malware
+C Software tool
+D None
+Answer: B
+Phishing is:
+A Fishing
+B Fraudulent attempt to get data
+C Gaming
+D None
+Answer: B
+Hacking means:
+A Protecting system
+B Unauthorized access
+C Repairing system
+D None
+Answer: B
+Firewall is used for:
+A Storage
+B Security
+C Processing
+D None
+Answer: B
+Antivirus software is used to:
+A Create virus
+B Detect and remove malware
+C Store data
+D None
+Answer: B
+Encryption is:
+A Data deletion
+B Data protection
+C Data storage
+D None
+Answer: B
+Decryption is:
+A Encoding data
+B Decoding data
+C Deleting data
+D None
+Answer: B
+Password should be:
+A Simple
+B Strong
+C Short
+D None
+Answer: B
+Two-factor authentication (2FA) adds:
+A One layer
+B Extra security
+C No security
+D None
+Answer: B
+OTP stands for:
+A One Time Password
+B Online Password
+C One Transfer Process
+D None
+Answer: A
+Data privacy means:
+A Data sharing
+B Protection of personal data
+C Data deletion
+D None
+Answer: B
+Cyber attack targets:
+A Systems
+B Networks
+C Data
+D All
+Answer: D
+Spyware is used for:
+A Protection
+B Monitoring user activity
+C Storage
+D None
+Answer: B
+Ransomware is:
+A Free software
+B Malware demanding payment
+C Security tool
+D None
+Answer: B
+Cybercrime includes:
+A Fraud
+B Identity theft
+C Hacking
+D All
+Answer: D
+Identity theft is:
+A Protecting identity
+B Stealing personal information
+C Sharing data
+D None
+Answer: B
+Secure websites use:
+A HTTP
+B HTTPS
+C FTP
+D None
+Answer: B
+SSL stands for:
+A Secure Socket Layer
+B Safe System Layer
+C Secure System Link
+D None
+Answer: A
+VPN stands for:
+A Virtual Private Network
+B Verified Private Network
+C Virtual Public Network
+D None
+Answer: A
+VPN is used for:
+A Storage
+B Secure connection
+C Processing
+D None
+Answer: B
+Cybersecurity tools include:
+A Firewalls
+B Antivirus
+C Encryption
+D All
+Answer: D
+Backup is used for:
+A Storage
+B Data recovery
+C Security
+D All
+Answer: D
+Cloud security protects:
+A Cloud data
+B Systems
+C Applications
+D All
+Answer: D
+Cyber laws regulate:
+A Agriculture
+B Online activities
+C Transport
+D None
+Answer: B
+IT Act in India deals with:
+A Agriculture
+B Cyber law
+C Transport
+D None
+Answer: B
+CERT-In handles:
+A Agriculture
+B Cyber incidents
+C Banking
+D None
+Answer: B
+CERT-In provides:
+A Security alerts
+B Guidelines
+C Response
+D All
+Answer: D
+Ethical hacking is:
+A Illegal hacking
+B Authorized security testing
+C Cybercrime
+D None
+Answer: B
+White hat hackers are:
+A Criminals
+B Security experts
+C Users
+D None
+Answer: B
+Black hat hackers are:
+A Ethical
+B Malicious
+C Neutral
+D None
+Answer: B
+Data breach is:
+A Data protection
+B Unauthorized data access
+C Storage
+D None
+Answer: B
+Social engineering attacks target:
+A Systems
+B People
+C Machines
+D None
+Answer: B
+Password manager is used for:
+A Storing passwords
+B Deleting data
+C Processing
+D None
+Answer: A
+Cyber hygiene includes:
+A Safe practices
+B Updates
+C Awareness
+D All
+Answer: D
+Software updates fix:
+A Bugs
+B Security issues
+C Performance
+D All
+Answer: D
+Digital signature is used for:
+A Authentication
+B Security
+C Verification
+D All
+Answer: D
+Cybersecurity awareness helps in:
+A Prevention
+B Protection
+C Safety
+D All
+Answer: D
+Phishing emails often contain:
+A Genuine links
+B Fake links
+C No links
+D None
+Answer: B
+Strong passwords include:
+A Letters
+B Numbers
+C Symbols
+D All
+Answer: D
+Cybersecurity is important for:
+A Individuals
+B Organizations
+C Governments
+D All
+Answer: D
+Data protection laws ensure:
+A Privacy
+B Security
+C Rights
+D All
+Answer: D
+Future of cybersecurity is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Cybersecurity challenges include:
+A Threats
+B Attacks
+C Risks
+D All
+Answer: D
+Cybersecurity is essential for:
+A Digital world
+B Economy
+C Society
+D All
+Answer: D
+
+Space exploration refers to:
+A Ocean study
+B Exploration of outer space
+C Agriculture
+D None
+Answer: B
+Space missions are conducted to:
+A Travel only
+B Study celestial bodies
+C Trade
+D None
+Answer: B
+India’s space agency is:
+A DRDO
+B ISRO
+C NASA
+D ESA
+Answer: B
+ISRO headquarters is in:
+A Mumbai
+B Bengaluru
+C Delhi
+D None
+Answer: B
+NASA belongs to:
+A India
+B USA
+C Russia
+D Europe
+Answer: B
+ESA is a space agency of:
+A USA
+B Europe
+C India
+D China
+Answer: B
+The first human in space was:
+A Neil Armstrong
+B Yuri Gagarin
+C Buzz Aldrin
+D None
+Answer: B
+The first man on the Moon was:
+A Neil Armstrong
+B Yuri Gagarin
+C Rakesh Sharma
+D None
+Answer: A
+The first Indian in space was:
+A Kalpana Chawla
+B Rakesh Sharma
+C Sunita Williams
+D None
+Answer: B
+The first satellite of India was:
+A INSAT
+B Aryabhata
+C PSLV
+D None
+Answer: B
+Chandrayaan missions are related to:
+A Mars
+B Moon
+C Sun
+D None
+Answer: B
+Chandrayaan-1 discovered:
+A Water on Moon
+B Life on Moon
+C Oxygen
+D None
+Answer: A
+Chandrayaan-2 aimed at:
+A Orbiter only
+B Lander and rover
+C Satellite only
+D None
+Answer: B
+Chandrayaan-3 achieved:
+A Mars landing
+B Successful Moon landing
+C Sun mission
+D None
+Answer: B
+Mangalyaan is mission to:
+A Moon
+B Mars
+C Sun
+D None
+Answer: B
+Mangalyaan is also called:
+A Mars Orbiter Mission
+B Moon Mission
+C Sun Mission
+D None
+Answer: A
+Gaganyaan mission aims to:
+A Send satellite
+B Send humans to space
+C Study Mars
+D None
+Answer: B
+SpaceX is a:
+A Government agency
+B Private space company
+C Research lab
+D None
+Answer: B
+SpaceX was founded by:
+A Bill Gates
+B Elon Musk
+C Jeff Bezos
+D None
+Answer: B
+Blue Origin is founded by:
+A Elon Musk
+B Jeff Bezos
+C Mark Zuckerberg
+D None
+Answer: B
+Rockets are used to:
+A Travel on land
+B Launch into space
+C Travel in water
+D None
+Answer: B
+Satellite launch vehicles include:
+A PSLV
+B GSLV
+C Both
+D None
+Answer: C
+Space probes are used for:
+A Communication
+B Exploration
+C Transport
+D None
+Answer: B
+Rover is used for:
+A Flying
+B Surface exploration
+C Water
+D None
+Answer: B
+International Space Station (ISS) is:
+A Satellite
+B Space station
+C Rocket
+D None
+Answer: B
+ISS is used for:
+A Research
+B Experiments
+C Study
+D All
+Answer: D
+Space telescopes are used to:
+A Study Earth
+B Study space
+C Communication
+D None
+Answer: B
+Hubble telescope is:
+A Ground telescope
+B Space telescope
+C Satellite
+D None
+Answer: B
+James Webb telescope is used for:
+A Earth study
+B Deep space observation
+C Communication
+D None
+Answer: B
+Space missions help in:
+A Science
+B Technology
+C Knowledge
+D All
+Answer: D
+Space exploration helps understand:
+A Universe
+B Planets
+C Stars
+D All
+Answer: D
+Mars missions aim to:
+A Study Earth
+B Study Mars
+C Study Sun
+D None
+Answer: B
+Moon missions aim to:
+A Study Moon
+B Study Sun
+C Study Mars
+D None
+Answer: A
+Space tourism is:
+A Free travel
+B Travel to space for civilians
+C Government mission
+D None
+Answer: B
+Space debris refers to:
+A Natural objects
+B Space waste
+C Satellites
+D None
+Answer: B
+Reusable rockets reduce:
+A Cost
+B Time
+C Waste
+D All
+Answer: D
+Space missions require:
+A Rockets
+B Satellites
+C Ground stations
+D All
+Answer: D
+Space suits are used for:
+A Protection
+B Oxygen supply
+C Survival
+D All
+Answer: D
+Astronauts are:
+A Scientists
+B Space travelers
+C Engineers
+D None
+Answer: B
+Space research improves:
+A Technology
+B Science
+C Innovation
+D All
+Answer: D
+Future missions include:
+A Mars colonization
+B Moon base
+C Deep space exploration
+D All
+Answer: D
+Space agencies collaborate for:
+A Research
+B Missions
+C Development
+D All
+Answer: D
+Space exploration is expensive due to:
+A Technology
+B Resources
+C Research
+D All
+Answer: D
+Satellites support missions by:
+A Communication
+B Navigation
+C Monitoring
+D All
+Answer: D
+Space missions face challenges like:
+A Gravity
+B Radiation
+C Cost
+D All
+Answer: D
+Launch window is:
+A Time to launch
+B Location
+C Rocket
+D None
+Answer: A
+Escape velocity is required to:
+A Stay on Earth
+B Leave Earth
+C Orbit Earth
+D None
+Answer: B
+Space exploration contributes to:
+A Economy
+B Innovation
+C Knowledge
+D All
+Answer: D
+Future of space exploration is:
+A Declining
+B Expanding
+C Static
+D None
+Answer: B
+Space missions are important for:
+A Science
+B Technology
+C Humanity
+D All
+Answer: D
+
+Robotics deals with:
+A Humans
+B Robots and automation
+C Plants
+D None
+Answer: B
+A robot is:
+A Living being
+B Programmable machine
+C Animal
+D None
+Answer: B
+Automation means:
+A Manual work
+B Automatic operation
+C No work
+D None
+Answer: B
+Robots are used in:
+A Industry
+B Healthcare
+C Space
+D All
+Answer: D
+Industrial robots are used for:
+A Cooking
+B Manufacturing
+C Teaching
+D None
+Answer: B
+Robots improve:
+A Efficiency
+B Accuracy
+C Productivity
+D All
+Answer: D
+Types of robots include:
+A Industrial
+B Service
+C Medical
+D All
+Answer: D
+Sensors in robots are used for:
+A Detection
+B Measurement
+C Control
+D All
+Answer: D
+Actuators in robots are used for:
+A Sensing
+B Movement
+C Storage
+D None
+Answer: B
+AI helps robots in:
+A Thinking
+B Decision making
+C Learning
+D All
+Answer: D
+Autonomous robots can:
+A Work independently
+B Need control
+C Stop working
+D None
+Answer: A
+Humanoid robots resemble:
+A Animals
+B Humans
+C Machines
+D None
+Answer: B
+Robotics uses:
+A Electronics
+B Mechanics
+C Programming
+D All
+Answer: D
+Drones are:
+A Ground robots
+B Aerial robots
+C Water robots
+D None
+Answer: B
+Drones are used for:
+A Surveillance
+B Delivery
+C Photography
+D All
+Answer: D
+Robotics in healthcare is used for:
+A Surgery
+B Rehabilitation
+C Assistance
+D All
+Answer: D
+Robotic surgery improves:
+A Precision
+B Accuracy
+C Safety
+D All
+Answer: D
+Robots in agriculture help in:
+A Harvesting
+B Monitoring
+C Planting
+D All
+Answer: D
+Automation reduces:
+A Errors
+B Cost
+C Time
+D All
+Answer: D
+Robotics in industry includes:
+A Assembly
+B Welding
+C Packaging
+D All
+Answer: D
+Machine learning helps robots in:
+A Learning
+B Adapting
+C Improving
+D All
+Answer: D
+Control system is used for:
+A Monitoring
+B Regulation
+C Operation
+D All
+Answer: D
+Robotics requires programming languages like:
+A Python
+B C++
+C Java
+D All
+Answer: D
+Embedded systems are used in:
+A Robots
+B Machines
+C Devices
+D All
+Answer: D
+Automation is widely used in:
+A Manufacturing
+B Services
+C IT
+D All
+Answer: D
+Collaborative robots are called:
+A Cobots
+B Bots
+C Machines
+D None
+Answer: A
+Cobots work with:
+A Humans
+B Animals
+C Machines only
+D None
+Answer: A
+Robotics improves safety by:
+A Handling dangerous tasks
+B Reducing risk
+C Avoiding accidents
+D All
+Answer: D
+Robots in space are used for:
+A Exploration
+B Repair
+C Research
+D All
+Answer: D
+Self-driving cars use:
+A AI
+B Sensors
+C Automation
+D All
+Answer: D
+Robotics is used in defense for:
+A Surveillance
+B Bomb disposal
+C Security
+D All
+Answer: D
+Automation can lead to:
+A Job loss
+B Efficiency
+C Productivity
+D All
+Answer: D
+Robotics in logistics helps in:
+A Sorting
+B Delivery
+C Storage
+D All
+Answer: D
+AI-powered robots can:
+A Learn
+B Adapt
+C Decide
+D All
+Answer: D
+Robotics applications include:
+A Education
+B Industry
+C Healthcare
+D All
+Answer: D
+Robotics challenges include:
+A Cost
+B Complexity
+C Maintenance
+D All
+Answer: D
+Robot vision uses:
+A Cameras
+B Sensors
+C AI
+D All
+Answer: D
+Natural language processing helps robots:
+A Understand language
+B Speak
+C Communicate
+D All
+Answer: D
+Robotics future includes:
+A Advanced AI
+B Automation
+C Smart robots
+D All
+Answer: D
+Robotics improves:
+A Innovation
+B Technology
+C Development
+D All
+Answer: D
+Robots are programmed using:
+A Software
+B Code
+C Algorithms
+D All
+Answer: D
+Automation systems use:
+A Sensors
+B Controllers
+C Actuators
+D All
+Answer: D
+Robotics is interdisciplinary field including:
+A Engineering
+B Computer science
+C AI
+D All
+Answer: D
+Robots can work in:
+A Hazardous areas
+B Space
+C Underwater
+D All
+Answer: D
+Robotics reduces human effort by:
+A Automation
+B Efficiency
+C Technology
+D All
+Answer: D
+Service robots are used in:
+A Homes
+B Hospitals
+C Offices
+D All
+Answer: D
+Robotics enhances:
+A Productivity
+B Accuracy
+C Efficiency
+D All
+Answer: D
+Robotics is important for:
+A Industry
+B Innovation
+C Economy
+D All
+Answer: D
+Future of robotics is:
+A Declining
+B Growing
+C Static
+D None
+Answer: B
+Robotics and automation are essential for:
+A Development
+B Technology
+C Economy
+D All
+Answer: D
